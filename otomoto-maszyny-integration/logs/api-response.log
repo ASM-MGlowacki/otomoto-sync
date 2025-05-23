@@ -1,0 +1,3577 @@
+Test API zakończony pomyślnie! Sprawdź logi wtyczki (`wp-content/plugins/otomoto-maszyny-integration/logs/otomoto_sync.log`) aby zobaczyć szczegóły pobranych danych (token, ogłoszenia, kategoria).
+Array
+(
+    [token_status] => SUCCESS
+    [adverts_sample] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6138112550
+                    [user_id] => 110110
+                    [status] => active
+                    [title] => Heder Taśmowy Geringhoff Flex 30, szerokość robocza 9,1 metra
+                    [url] => https://www.otomoto.pl/maszyny-rolnicze/oferta/geringhoff-flex-30-heder-tasmowy-geringhoff-flex-30-szerokosc-robocza-9-1-metra-ID6HoTtk.html
+                    [created_at] => 2025-05-20 10:55:32
+                    [valid_to] => 2025-06-19 10:55:50
+                    [description] => <p>Agro-Sieć Maszyny - Autoryzowany dealer Marki John Deere ma w swojej ofercie:</p><p><br></p><p>Uwaga! Zmiana lokalizacji – Maszyna do obejrzenia pod adresem:</p><p><br></p><p>Centrum Maszyn Używanych Agro-Sieć Maszyny sp. z o.o.</p><p>Ul. Przejazdowa 30</p><p>87-200 Wąbrzeźno</p><p><br></p><p>Używany Heder zbożowy marki Geringhoff model Flex 30</p><p><br></p><p>rok produkcji 2021</p><p>szerokość cięcia 9.11 m</p><p>szerokość całkowita 9.44</p><p>masa własna 2800 kg</p><p>rozdzielacze łanu</p><p>dwie kosy boczne</p><p>stawiacze łanu</p><p>wózek transportowy</p><p>centralka sterująca</p><p><br></p><p>przystosowanie do kombajnu John Deere T670</p><p><br></p><p>W przypadku zainteresowania prosimy o kontakt z numerem 664144575</p><p><br></p><p>Niniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 6, par.1 Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualności ogłoszenia.</p>
+                    [category_id] => 99
+                    [region_id] => 15
+                    [city_id] => 22501
+                    [municipality] => Chełmno
+                    [city] => Array
+                        (
+                            [pl] => Chełmno
+                            [en] => Chełmno
+                        )
+
+                    [coordinates] => Array
+                        (
+                            [latitude] => 53.35
+                            [longitude] => 18.43333
+                            [radius] => 0
+                            [zoom_level] => 12
+                        )
+
+                    [advertiser_type] => business
+                    [contact] => Array
+                        (
+                            [person] => Agro-Sieć Maszyny
+                            [phone_numbers] => Array
+                                (
+                                    [0] => 664144575
+                                )
+
+                        )
+
+                    [params] => Array
+                        (
+                            [make] => geringhoff
+                            [model] => Flex 30
+                            [year] => 2021
+                            [damaged] => 0
+                            [price] => Array
+                                (
+                                    [0] => price
+                                    [1] => 165000
+                                    [currency] => PLN
+                                    [gross_net] => net
+                                )
+
+                        )
+
+                    [photos] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZidXJqamExdXRtNC1PVE9NT1RPUEwifQ.p_6ukgA9vrqYL0opPlpJFCeIke7btxizZ0uKL1st-as/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZidXJqamExdXRtNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LijhUC-vHThnC3haoD-k0IKOVzeSnNuBl8eT-OTr5tI/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZidXJqamExdXRtNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LijhUC-vHThnC3haoD-k0IKOVzeSnNuBl8eT-OTr5tI/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZidXJqamExdXRtNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LijhUC-vHThnC3haoD-k0IKOVzeSnNuBl8eT-OTr5tI/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZidXJqamExdXRtNC1PVE9NT1RPUEwifQ.p_6ukgA9vrqYL0opPlpJFCeIke7btxizZ0uKL1st-as/image;s=1280x800
+                                )
+
+                            [2] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR6NjM1bzRtZGJqZjMtT1RPTU9UT1BMIn0.qYY_AaMEhTP3rpDLl-ojmkpqKtmSOlvSodLz9nAeSNo/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR6NjM1bzRtZGJqZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.W9w5icYKcB0BmttFXJA-VX-kF9BaPo1vJTQqwQ47I2w/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR6NjM1bzRtZGJqZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.W9w5icYKcB0BmttFXJA-VX-kF9BaPo1vJTQqwQ47I2w/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR6NjM1bzRtZGJqZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.W9w5icYKcB0BmttFXJA-VX-kF9BaPo1vJTQqwQ47I2w/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR6NjM1bzRtZGJqZjMtT1RPTU9UT1BMIn0.qYY_AaMEhTP3rpDLl-ojmkpqKtmSOlvSodLz9nAeSNo/image;s=1280x800
+                                )
+
+                            [3] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFyNDhhczdvY3RjbjEtT1RPTU9UT1BMIn0.o6KgCojPACKfQudOH70gbt3AVkbK67SsMTJ8vUacTVI/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFyNDhhczdvY3RjbjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.PzWM6aOIWZkJynKohGG05yZ8ry6wlhBhdVFM5P5hV-4/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFyNDhhczdvY3RjbjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.PzWM6aOIWZkJynKohGG05yZ8ry6wlhBhdVFM5P5hV-4/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFyNDhhczdvY3RjbjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.PzWM6aOIWZkJynKohGG05yZ8ry6wlhBhdVFM5P5hV-4/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFyNDhhczdvY3RjbjEtT1RPTU9UT1BMIn0.o6KgCojPACKfQudOH70gbt3AVkbK67SsMTJ8vUacTVI/image;s=1280x800
+                                )
+
+                            [4] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlidHU1MGVmcXNucTEtT1RPTU9UT1BMIn0.3FKGcR39VupxLoByTRi0hAdz4hAOXLDe7f9tx8bnbkY/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlidHU1MGVmcXNucTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.TIfCGYFXz4G9b7c8peRwlKgzBFKIPLOuHRB9HdfczVM/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlidHU1MGVmcXNucTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.TIfCGYFXz4G9b7c8peRwlKgzBFKIPLOuHRB9HdfczVM/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlidHU1MGVmcXNucTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.TIfCGYFXz4G9b7c8peRwlKgzBFKIPLOuHRB9HdfczVM/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlidHU1MGVmcXNucTEtT1RPTU9UT1BMIn0.3FKGcR39VupxLoByTRi0hAdz4hAOXLDe7f9tx8bnbkY/image;s=1280x800
+                                )
+
+                            [5] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw2eXFldTk2azJvMTItT1RPTU9UT1BMIn0.qWQfo973uBwblAA6bLkspTCPcXfNvdUWS5aBVJb8ah4/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw2eXFldTk2azJvMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.-rG3zREkOJJpn4vU2uqE0knTdTh9z1IIlKwPO48Rs6A/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw2eXFldTk2azJvMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.-rG3zREkOJJpn4vU2uqE0knTdTh9z1IIlKwPO48Rs6A/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw2eXFldTk2azJvMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.-rG3zREkOJJpn4vU2uqE0knTdTh9z1IIlKwPO48Rs6A/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw2eXFldTk2azJvMTItT1RPTU9UT1BMIn0.qWQfo973uBwblAA6bLkspTCPcXfNvdUWS5aBVJb8ah4/image;s=1280x800
+                                )
+
+                            [6] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0bnFjbGNxbzl4djEtT1RPTU9UT1BMIn0.dPiFQ76lPRMp4U80wX9qzqy8kkBquhKP7m_URhoGx2E/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0bnFjbGNxbzl4djEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.DTS9dYz4L2haUR6BGKf9G10KAKv1k2xtlz7uS6jCL04/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0bnFjbGNxbzl4djEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.DTS9dYz4L2haUR6BGKf9G10KAKv1k2xtlz7uS6jCL04/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0bnFjbGNxbzl4djEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.DTS9dYz4L2haUR6BGKf9G10KAKv1k2xtlz7uS6jCL04/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ0bnFjbGNxbzl4djEtT1RPTU9UT1BMIn0.dPiFQ76lPRMp4U80wX9qzqy8kkBquhKP7m_URhoGx2E/image;s=1280x800
+                                )
+
+                            [7] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZjNjU5eDhlcTh4ZzEtT1RPTU9UT1BMIn0.jEb2wPHZJIPnAF0eG7mOrBXvivo9sPI4cIzlb26Dnj4/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZjNjU5eDhlcTh4ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wR1AdZ-3u_r9cfkNa4Zdi0lTPJhzAxDkk09APbJ8--I/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZjNjU5eDhlcTh4ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wR1AdZ-3u_r9cfkNa4Zdi0lTPJhzAxDkk09APbJ8--I/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZjNjU5eDhlcTh4ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wR1AdZ-3u_r9cfkNa4Zdi0lTPJhzAxDkk09APbJ8--I/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZjNjU5eDhlcTh4ZzEtT1RPTU9UT1BMIn0.jEb2wPHZJIPnAF0eG7mOrBXvivo9sPI4cIzlb26Dnj4/image;s=1280x800
+                                )
+
+                            [8] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM4bW94MzAweDVxNzMtT1RPTU9UT1BMIn0.lchu9kv_glo17W3prhCj04AdSP8cHyiLN_JpVYMK7XA/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM4bW94MzAweDVxNzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.15TkgM0KrJKj5AfLZqrbesBbmxHEMYCSU2I3azLCVyU/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM4bW94MzAweDVxNzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.15TkgM0KrJKj5AfLZqrbesBbmxHEMYCSU2I3azLCVyU/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM4bW94MzAweDVxNzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.15TkgM0KrJKj5AfLZqrbesBbmxHEMYCSU2I3azLCVyU/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InM4bW94MzAweDVxNzMtT1RPTU9UT1BMIn0.lchu9kv_glo17W3prhCj04AdSP8cHyiLN_JpVYMK7XA/image;s=1280x800
+                                )
+
+                        )
+
+                    [image_collection_id] => 1047875994
+                    [new_used] => used
+                    [visible_in_profile] => 1
+                    [last_update_date] => 2025-05-20 11:16:27
+                )
+
+            [1] => Array
+                (
+                    [id] => 6121985074
+                    [user_id] => 110110
+                    [status] => active
+                    [title] => 
+                    [url] => https://www.otomoto.pl/maszyny-rolnicze/oferta/john-deere-s680i-ID6GjdYK.html
+                    [created_at] => 2024-03-25 14:47:00
+                    [valid_to] => 2025-06-18 16:31:19
+                    [description] => <p>Agro-Sieć Maszyny - Autoryzowany dealer Marki John Deere ma w swojej ofercie:</p><p><br></p><p>Uwaga! Zmiana lokalizacji – Maszyna do obejrzenia pod adresem:</p><p><br></p><p>Centrum Maszyn Używanych Agro-Sieć Maszyny sp. z o.o.</p><p>Ul. Przejazdowa 30</p><p>87-200 Wąbrzeźno</p><p><br></p><p>Kombajn Zbożowy John Deere S680i</p><p><br></p><p>- rok produkcji 2012</p><p>- wskazanie licznika silnik - 3305 mth</p><p>- wskazanie licznika rotor - 2122 mth</p><p>- silnik John Deere 13,5 litra 6-cylindorwy</p><p>- Przekładnia Pro-Drive</p><p>- moc znamionowa silnika 480 KM</p><p>- zbiornik 14 100 l</p><p>- napęd osi tylnej</p><p>- gąsienice na osi przedniej</p><p>- rozrzutnik słomy i sieczkarnia</p><p>- komputer sterujący Greenstar 2630</p><p>- Harvest Monitor</p><p>- Zmienna wydajność Rotora</p><p>- rura wyładowcza 6,9m</p><p>- sieczkarnia ze zwiększoną ilością noży</p><p>- elektrycznie nastawiane sita</p><p><br></p><p>- Heder Zurn Premium Flow 9,15m - taśmowy</p><p>- szerokość cięcia - 9,15m</p><p>- Wózek transportowy</p><p><br></p><p>W przypadku zainteresowania prosimy o kontakt z numerem +48 664 144 575</p><p><br></p><p>Niniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 6, par.1 Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualności ogłoszenia.</p><p>-</p><p><br></p><p>Numer oferty: AKL644XH</p>
+                    [category_id] => 99
+                    [region_id] => 15
+                    [city_id] => 22501
+                    [municipality] => Chełmno
+                    [city] => Array
+                        (
+                            [pl] => Chełmno
+                            [en] => Chełmno
+                        )
+
+                    [coordinates] => Array
+                        (
+                            [latitude] => 53.35
+                            [longitude] => 18.43333
+                            [radius] => 0
+                            [zoom_level] => 12
+                        )
+
+                    [advertiser_type] => business
+                    [contact] => Array
+                        (
+                            [person] => Agro-Sieć Maszyny
+                            [phone_numbers] => Array
+                                (
+                                    [0] => 664144575
+                                )
+
+                        )
+
+                    [params] => Array
+                        (
+                            [make] => john-deere
+                            [model] => S680i
+                            [year] => 2012
+                            [lifetime] => 2122
+                            [price] => Array
+                                (
+                                    [0] => arranged
+                                    [1] => 399000
+                                    [currency] => PLN
+                                    [gross_net] => net
+                                )
+
+                            [vat] => 1
+                            [power] => 480
+                        )
+
+                    [photos] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhYnd4MGhwNG4zaS1PVE9NT1RPUEwifQ.Jsc4k1-6qtQdqSpnSYimk8ACwvn127VUCNekw_7vlDo/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhYnd4MGhwNG4zaS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qlAnY4dV-YO47RGixfVZdPWpo8gUeaGvMxI047mVzzw/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhYnd4MGhwNG4zaS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qlAnY4dV-YO47RGixfVZdPWpo8gUeaGvMxI047mVzzw/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhYnd4MGhwNG4zaS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.qlAnY4dV-YO47RGixfVZdPWpo8gUeaGvMxI047mVzzw/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhYnd4MGhwNG4zaS1PVE9NT1RPUEwifQ.Jsc4k1-6qtQdqSpnSYimk8ACwvn127VUCNekw_7vlDo/image;s=1280x800
+                                )
+
+                            [2] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBydmRxYzM1dmxlajItT1RPTU9UT1BMIn0.RQj-_YxA4rh7EN_VHEdBHRU6tUeGkEQhYPRe6e8UDRo/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBydmRxYzM1dmxlajItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.JA0k9mwj-WttKBACWLlyrULuzqKl5eXLfPd2NjmtQWw/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBydmRxYzM1dmxlajItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.JA0k9mwj-WttKBACWLlyrULuzqKl5eXLfPd2NjmtQWw/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBydmRxYzM1dmxlajItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.JA0k9mwj-WttKBACWLlyrULuzqKl5eXLfPd2NjmtQWw/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjBydmRxYzM1dmxlajItT1RPTU9UT1BMIn0.RQj-_YxA4rh7EN_VHEdBHRU6tUeGkEQhYPRe6e8UDRo/image;s=1280x800
+                                )
+
+                            [3] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJqajFnNzdmbGczcS1PVE9NT1RPUEwifQ.HsDhJVIM9enmPlrh63QvKt5os6PpXv8auZKJXqR5oO8/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJqajFnNzdmbGczcS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.f8k0JxNBGLLzSy8lbCcxN_nVE36E7yv28Ci8PkeRDA4/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJqajFnNzdmbGczcS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.f8k0JxNBGLLzSy8lbCcxN_nVE36E7yv28Ci8PkeRDA4/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJqajFnNzdmbGczcS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.f8k0JxNBGLLzSy8lbCcxN_nVE36E7yv28Ci8PkeRDA4/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJqajFnNzdmbGczcS1PVE9NT1RPUEwifQ.HsDhJVIM9enmPlrh63QvKt5os6PpXv8auZKJXqR5oO8/image;s=1280x800
+                                )
+
+                            [4] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh0Y2sxcGlpNnV1cTEtT1RPTU9UT1BMIn0.HAmW4qVxactQ-G_3lOHhU5wG56Tt8NJUoL1pXFCkvPI/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh0Y2sxcGlpNnV1cTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VWn-Yd8axNnrmvfX1M6xgVw_oZobCWjPpwJey0gLtK4/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh0Y2sxcGlpNnV1cTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VWn-Yd8axNnrmvfX1M6xgVw_oZobCWjPpwJey0gLtK4/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh0Y2sxcGlpNnV1cTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VWn-Yd8axNnrmvfX1M6xgVw_oZobCWjPpwJey0gLtK4/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh0Y2sxcGlpNnV1cTEtT1RPTU9UT1BMIn0.HAmW4qVxactQ-G_3lOHhU5wG56Tt8NJUoL1pXFCkvPI/image;s=1280x800
+                                )
+
+                            [5] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRmbXVmaWs5c2YycS1PVE9NT1RPUEwifQ.WQO4UR6D-NogVbzOHsQFiSC3RuLdOSiFH6uAIZRnh6M/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRmbXVmaWs5c2YycS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LldlVy43ZhGJZKs-oriJqnMwbqXZHmr379-L8E_Zrdg/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRmbXVmaWs5c2YycS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LldlVy43ZhGJZKs-oriJqnMwbqXZHmr379-L8E_Zrdg/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRmbXVmaWs5c2YycS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LldlVy43ZhGJZKs-oriJqnMwbqXZHmr379-L8E_Zrdg/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRmbXVmaWs5c2YycS1PVE9NT1RPUEwifQ.WQO4UR6D-NogVbzOHsQFiSC3RuLdOSiFH6uAIZRnh6M/image;s=1280x800
+                                )
+
+                            [6] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1mdjY0YWR3YzJ3aTEtT1RPTU9UT1BMIn0.fHhiOMBlaICseMUWtuaEFSXgTYUjuElOG01EO0Ha3sU/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1mdjY0YWR3YzJ3aTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.UHVw3YWZh6Pll1ftAsr1fGxgcyvEi0LAicmqAO6vUvg/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1mdjY0YWR3YzJ3aTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.UHVw3YWZh6Pll1ftAsr1fGxgcyvEi0LAicmqAO6vUvg/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1mdjY0YWR3YzJ3aTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.UHVw3YWZh6Pll1ftAsr1fGxgcyvEi0LAicmqAO6vUvg/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1mdjY0YWR3YzJ3aTEtT1RPTU9UT1BMIn0.fHhiOMBlaICseMUWtuaEFSXgTYUjuElOG01EO0Ha3sU/image;s=1280x800
+                                )
+
+                            [7] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBnOHdpYmh2ZHk0dDItT1RPTU9UT1BMIn0.IlMPq3ntsGcs9sVDWIBanShg_8h4inqiLLHBzno_UMA/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBnOHdpYmh2ZHk0dDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0Ay-noc9ErbeP0q7rMbTBBoQ4UrwEpcjIxz93Vuxxfs/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBnOHdpYmh2ZHk0dDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0Ay-noc9ErbeP0q7rMbTBBoQ4UrwEpcjIxz93Vuxxfs/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBnOHdpYmh2ZHk0dDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0Ay-noc9ErbeP0q7rMbTBBoQ4UrwEpcjIxz93Vuxxfs/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBnOHdpYmh2ZHk0dDItT1RPTU9UT1BMIn0.IlMPq3ntsGcs9sVDWIBanShg_8h4inqiLLHBzno_UMA/image;s=1280x800
+                                )
+
+                            [8] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imdwa2d0Zjg1d3BvYi1PVE9NT1RPUEwifQ.2E70H_ND_9qWv0GMeob4X6MZzxYH-o6-urqDJOlTYqk/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imdwa2d0Zjg1d3BvYi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UR0Z56P4B-kHoa-Tf7LuiKEqzYJcMW_GEDsRdCWZz-c/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imdwa2d0Zjg1d3BvYi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UR0Z56P4B-kHoa-Tf7LuiKEqzYJcMW_GEDsRdCWZz-c/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imdwa2d0Zjg1d3BvYi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UR0Z56P4B-kHoa-Tf7LuiKEqzYJcMW_GEDsRdCWZz-c/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imdwa2d0Zjg1d3BvYi1PVE9NT1RPUEwifQ.2E70H_ND_9qWv0GMeob4X6MZzxYH-o6-urqDJOlTYqk/image;s=1280x800
+                                )
+
+                            [9] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV5bmkxMmgweWFlZjItT1RPTU9UT1BMIn0.2DknNEKVyaNvQpWIFGYvaRQaQTO7T5PVQwx3IlZjsBY/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV5bmkxMmgweWFlZjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.YAZHBZRXjEP7Fs3t12trQB5dEu8T6R7dQE8w_iaZOYk/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV5bmkxMmgweWFlZjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.YAZHBZRXjEP7Fs3t12trQB5dEu8T6R7dQE8w_iaZOYk/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV5bmkxMmgweWFlZjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.YAZHBZRXjEP7Fs3t12trQB5dEu8T6R7dQE8w_iaZOYk/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImV5bmkxMmgweWFlZjItT1RPTU9UT1BMIn0.2DknNEKVyaNvQpWIFGYvaRQaQTO7T5PVQwx3IlZjsBY/image;s=1280x800
+                                )
+
+                            [10] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFoN2c2M2IybGhsdzEtT1RPTU9UT1BMIn0.cxJjdIyNazQfMkKQpl-EbE7WTkS4D1NXm_Vk4t2iiHI/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFoN2c2M2IybGhsdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.c581Xhw-7l7531cqMza-oUotoEaykm1PnBdK8FvhCCo/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFoN2c2M2IybGhsdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.c581Xhw-7l7531cqMza-oUotoEaykm1PnBdK8FvhCCo/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFoN2c2M2IybGhsdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.c581Xhw-7l7531cqMza-oUotoEaykm1PnBdK8FvhCCo/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFoN2c2M2IybGhsdzEtT1RPTU9UT1BMIn0.cxJjdIyNazQfMkKQpl-EbE7WTkS4D1NXm_Vk4t2iiHI/image;s=1280x800
+                                )
+
+                            [11] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdnYW4wOWNpbmRybzEtT1RPTU9UT1BMIn0._BT70FYhit3raBqOUA8B8cOgGSZ4wugSdp5xPfQmFFM/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdnYW4wOWNpbmRybzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.nx5KNCHZPTbHw85awgr4utGf470jLgfshCR_zDJQWOU/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdnYW4wOWNpbmRybzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.nx5KNCHZPTbHw85awgr4utGf470jLgfshCR_zDJQWOU/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdnYW4wOWNpbmRybzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.nx5KNCHZPTbHw85awgr4utGf470jLgfshCR_zDJQWOU/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdnYW4wOWNpbmRybzEtT1RPTU9UT1BMIn0._BT70FYhit3raBqOUA8B8cOgGSZ4wugSdp5xPfQmFFM/image;s=1280x800
+                                )
+
+                            [12] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrODdzb2JybzZtdDEtT1RPTU9UT1BMIn0.asSIe3CK7oJu57Hpwm63Zpi5mlmMVuaCR4wPEFU5z1Q/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrODdzb2JybzZtdDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.rwkggXm2Wu_qPFtSdVd3CVbAAXRco4gK8EPGNypCsTA/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrODdzb2JybzZtdDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.rwkggXm2Wu_qPFtSdVd3CVbAAXRco4gK8EPGNypCsTA/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrODdzb2JybzZtdDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.rwkggXm2Wu_qPFtSdVd3CVbAAXRco4gK8EPGNypCsTA/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVrODdzb2JybzZtdDEtT1RPTU9UT1BMIn0.asSIe3CK7oJu57Hpwm63Zpi5mlmMVuaCR4wPEFU5z1Q/image;s=1280x800
+                                )
+
+                            [13] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1bzM1NG42ajBhMjEtT1RPTU9UT1BMIn0.1gM-6QNiquZ_jswNC8hlUkJg0NEXM6ZVLyHwBxTH7rc/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1bzM1NG42ajBhMjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kbcKOagO5PSiznqUJ2Lu3pPamjw9b3fCyLpP-6OJ9Ao/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1bzM1NG42ajBhMjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kbcKOagO5PSiznqUJ2Lu3pPamjw9b3fCyLpP-6OJ9Ao/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1bzM1NG42ajBhMjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kbcKOagO5PSiznqUJ2Lu3pPamjw9b3fCyLpP-6OJ9Ao/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imw1bzM1NG42ajBhMjEtT1RPTU9UT1BMIn0.1gM-6QNiquZ_jswNC8hlUkJg0NEXM6ZVLyHwBxTH7rc/image;s=1280x800
+                                )
+
+                            [14] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ1bTdjazdlOGFiMi1PVE9NT1RPUEwifQ.9BsU1pbub42utcmSsEjVZ0EoKikbmyFLwmGnIy1Mm0M/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ1bTdjazdlOGFiMi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2p53kKc0yK6XvSliPrWWfvl6ZCxvaFjyyynXuedLBnQ/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ1bTdjazdlOGFiMi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2p53kKc0yK6XvSliPrWWfvl6ZCxvaFjyyynXuedLBnQ/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ1bTdjazdlOGFiMi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.2p53kKc0yK6XvSliPrWWfvl6ZCxvaFjyyynXuedLBnQ/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ1bTdjazdlOGFiMi1PVE9NT1RPUEwifQ.9BsU1pbub42utcmSsEjVZ0EoKikbmyFLwmGnIy1Mm0M/image;s=1280x800
+                                )
+
+                            [15] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN5ZGUydHA3bmtudDMtT1RPTU9UT1BMIn0.6edtlQHlUtIJDvmbaP7q1XLtHbzblfM7YAeVkyo6IJk/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN5ZGUydHA3bmtudDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.LjGzMwiOZn98R4XP5XyBa2B_NPqjfTSMykLdq12lA34/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN5ZGUydHA3bmtudDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.LjGzMwiOZn98R4XP5XyBa2B_NPqjfTSMykLdq12lA34/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN5ZGUydHA3bmtudDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.LjGzMwiOZn98R4XP5XyBa2B_NPqjfTSMykLdq12lA34/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN5ZGUydHA3bmtudDMtT1RPTU9UT1BMIn0.6edtlQHlUtIJDvmbaP7q1XLtHbzblfM7YAeVkyo6IJk/image;s=1280x800
+                                )
+
+                            [16] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5aGgxd2c0OTlkbzMtT1RPTU9UT1BMIn0.psY3PZIs6uMNm6KlXqotTEVxvOnCYiT6cGN9-3CVwv8/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5aGgxd2c0OTlkbzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0jagjEQ75q3cjxJ2FdWGsEfAJ1y-G2n3MQSC9EHojvs/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5aGgxd2c0OTlkbzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0jagjEQ75q3cjxJ2FdWGsEfAJ1y-G2n3MQSC9EHojvs/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5aGgxd2c0OTlkbzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0jagjEQ75q3cjxJ2FdWGsEfAJ1y-G2n3MQSC9EHojvs/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA5aGgxd2c0OTlkbzMtT1RPTU9UT1BMIn0.psY3PZIs6uMNm6KlXqotTEVxvOnCYiT6cGN9-3CVwv8/image;s=1280x800
+                                )
+
+                            [17] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU1aWd1ZzJyaWxwMTItT1RPTU9UT1BMIn0.jDAHCjxjFmLFmMGfSikXgCBPqfDPvPh1JAo1mmpfmlk/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU1aWd1ZzJyaWxwMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.uXjTYBX5mqk0b-gZAR1c4Urk0tV5ZW3L1EKKSTPp-os/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU1aWd1ZzJyaWxwMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.uXjTYBX5mqk0b-gZAR1c4Urk0tV5ZW3L1EKKSTPp-os/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU1aWd1ZzJyaWxwMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.uXjTYBX5mqk0b-gZAR1c4Urk0tV5ZW3L1EKKSTPp-os/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InU1aWd1ZzJyaWxwMTItT1RPTU9UT1BMIn0.jDAHCjxjFmLFmMGfSikXgCBPqfDPvPh1JAo1mmpfmlk/image;s=1280x800
+                                )
+
+                            [18] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhob3dsY2l5bjR6bjEtT1RPTU9UT1BMIn0.6ynVhJOIGIrnQTTl62FAG3Xu85mJzhIcxzWfjJhjmAQ/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhob3dsY2l5bjR6bjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.hl3RxQhn5rGuuD79ZNhfCx4xNq6EZn_QU4qgNGoYkQM/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhob3dsY2l5bjR6bjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.hl3RxQhn5rGuuD79ZNhfCx4xNq6EZn_QU4qgNGoYkQM/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhob3dsY2l5bjR6bjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.hl3RxQhn5rGuuD79ZNhfCx4xNq6EZn_QU4qgNGoYkQM/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijhob3dsY2l5bjR6bjEtT1RPTU9UT1BMIn0.6ynVhJOIGIrnQTTl62FAG3Xu85mJzhIcxzWfjJhjmAQ/image;s=1280x800
+                                )
+
+                            [19] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVoMDZnb255b3l4bzMtT1RPTU9UT1BMIn0.21rcCLeBRdTdYKe3UYPXqbkzxdYrvv4-RQsoYWySMpM/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVoMDZnb255b3l4bzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.tL17GmsNEIFr_JR5Civ4Hid0SLV4uq-XiESyGuKLjZQ/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVoMDZnb255b3l4bzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.tL17GmsNEIFr_JR5Civ4Hid0SLV4uq-XiESyGuKLjZQ/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVoMDZnb255b3l4bzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.tL17GmsNEIFr_JR5Civ4Hid0SLV4uq-XiESyGuKLjZQ/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVoMDZnb255b3l4bzMtT1RPTU9UT1BMIn0.21rcCLeBRdTdYKe3UYPXqbkzxdYrvv4-RQsoYWySMpM/image;s=1280x800
+                                )
+
+                            [20] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhkZDJybDl6MGtjcTItT1RPTU9UT1BMIn0.OK14PvmNf4OUVH1I4EDy4GBBMe-hv18azrKiJZJJuks/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhkZDJybDl6MGtjcTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.FuVxYBjKq4sq3h0eKvIwgFOmzNp7z-Mvb6fSq2HP75Y/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhkZDJybDl6MGtjcTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.FuVxYBjKq4sq3h0eKvIwgFOmzNp7z-Mvb6fSq2HP75Y/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhkZDJybDl6MGtjcTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.FuVxYBjKq4sq3h0eKvIwgFOmzNp7z-Mvb6fSq2HP75Y/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InhkZDJybDl6MGtjcTItT1RPTU9UT1BMIn0.OK14PvmNf4OUVH1I4EDy4GBBMe-hv18azrKiJZJJuks/image;s=1280x800
+                                )
+
+                            [21] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU5bDI5czA2MzAzODMtT1RPTU9UT1BMIn0.s44FREJfiHMY25WDRG_svguHUHj-o9LTHcr-nruRnpI/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU5bDI5czA2MzAzODMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19._44PWD2IhqJAhTlsdiTCaJiNCwXoTSBHmEyC3brqIu8/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU5bDI5czA2MzAzODMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19._44PWD2IhqJAhTlsdiTCaJiNCwXoTSBHmEyC3brqIu8/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU5bDI5czA2MzAzODMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19._44PWD2IhqJAhTlsdiTCaJiNCwXoTSBHmEyC3brqIu8/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU5bDI5czA2MzAzODMtT1RPTU9UT1BMIn0.s44FREJfiHMY25WDRG_svguHUHj-o9LTHcr-nruRnpI/image;s=1280x800
+                                )
+
+                            [22] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2ZDJiazFkaWt5dzItT1RPTU9UT1BMIn0.3Rb9g5vSLO5VM1yJuIijZM4XOr2ylmU_8OJL2aNgFgw/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2ZDJiazFkaWt5dzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.QFXLdhZYBqToU3PoV7EqQeRzFrRQNh5PlLzYPDtCKqk/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2ZDJiazFkaWt5dzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.QFXLdhZYBqToU3PoV7EqQeRzFrRQNh5PlLzYPDtCKqk/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2ZDJiazFkaWt5dzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.QFXLdhZYBqToU3PoV7EqQeRzFrRQNh5PlLzYPDtCKqk/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY2ZDJiazFkaWt5dzItT1RPTU9UT1BMIn0.3Rb9g5vSLO5VM1yJuIijZM4XOr2ylmU_8OJL2aNgFgw/image;s=1280x800
+                                )
+
+                            [23] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNjNDFuMTE5aXRzZjEtT1RPTU9UT1BMIn0.Gk-rPzLcGPoXbRiHxK0U_Z0rKnvH8-4N6M1KbT7j-yo/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNjNDFuMTE5aXRzZjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.g75tYuy4PahQE-0LbH1H6a98tiPRWQ5exr54X7KkqNE/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNjNDFuMTE5aXRzZjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.g75tYuy4PahQE-0LbH1H6a98tiPRWQ5exr54X7KkqNE/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNjNDFuMTE5aXRzZjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.g75tYuy4PahQE-0LbH1H6a98tiPRWQ5exr54X7KkqNE/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNjNDFuMTE5aXRzZjEtT1RPTU9UT1BMIn0.Gk-rPzLcGPoXbRiHxK0U_Z0rKnvH8-4N6M1KbT7j-yo/image;s=1280x800
+                                )
+
+                            [24] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im05cmh1YW96MGVlZy1PVE9NT1RPUEwifQ.g4u3NJyKCim9C8xcLQJ8CZWr2-X3wgeqUJm-bnPGdGM/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im05cmh1YW96MGVlZy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.huP-LVq1yLCm9_znj9iGKqxlYWCff0H_-SaebZEx42Q/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im05cmh1YW96MGVlZy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.huP-LVq1yLCm9_znj9iGKqxlYWCff0H_-SaebZEx42Q/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im05cmh1YW96MGVlZy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.huP-LVq1yLCm9_znj9iGKqxlYWCff0H_-SaebZEx42Q/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im05cmh1YW96MGVlZy1PVE9NT1RPUEwifQ.g4u3NJyKCim9C8xcLQJ8CZWr2-X3wgeqUJm-bnPGdGM/image;s=1280x800
+                                )
+
+                            [25] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVsZ2tnZndleHlzZjMtT1RPTU9UT1BMIn0.JqmcLrbZ8OWy7TlBr6fE3-lliygU2khSUATpRTxxBgk/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVsZ2tnZndleHlzZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.IxSdM6Kb1UM2IRguGjxQ925cuw9h9oYCC1qa6guqZGs/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVsZ2tnZndleHlzZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.IxSdM6Kb1UM2IRguGjxQ925cuw9h9oYCC1qa6guqZGs/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVsZ2tnZndleHlzZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.IxSdM6Kb1UM2IRguGjxQ925cuw9h9oYCC1qa6guqZGs/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVsZ2tnZndleHlzZjMtT1RPTU9UT1BMIn0.JqmcLrbZ8OWy7TlBr6fE3-lliygU2khSUATpRTxxBgk/image;s=1280x800
+                                )
+
+                            [26] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUybWV6NzF6ODhtdzEtT1RPTU9UT1BMIn0.HSVBUt3hhx971cPwyBottIp2VTahtFi6L4pKPBTE5QI/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUybWV6NzF6ODhtdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VHDMo0-ciMhDRWWoMTJXUhqWyziHuLhnJ8p_fquV5js/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUybWV6NzF6ODhtdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VHDMo0-ciMhDRWWoMTJXUhqWyziHuLhnJ8p_fquV5js/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUybWV6NzF6ODhtdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VHDMo0-ciMhDRWWoMTJXUhqWyziHuLhnJ8p_fquV5js/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjUybWV6NzF6ODhtdzEtT1RPTU9UT1BMIn0.HSVBUt3hhx971cPwyBottIp2VTahtFi6L4pKPBTE5QI/image;s=1280x800
+                                )
+
+                            [27] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqaXhuMW9qdDV6eDItT1RPTU9UT1BMIn0.juO93-NDkbM2fKKoOfB9Zobpq6EteFtugnJhdGAqRFo/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqaXhuMW9qdDV6eDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.9tNhCsRJhd7cxkcsZ45qpaOsGrWAVwGD-SknEEdC178/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqaXhuMW9qdDV6eDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.9tNhCsRJhd7cxkcsZ45qpaOsGrWAVwGD-SknEEdC178/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqaXhuMW9qdDV6eDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.9tNhCsRJhd7cxkcsZ45qpaOsGrWAVwGD-SknEEdC178/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZqaXhuMW9qdDV6eDItT1RPTU9UT1BMIn0.juO93-NDkbM2fKKoOfB9Zobpq6EteFtugnJhdGAqRFo/image;s=1280x800
+                                )
+
+                            [28] => Array
+                                (
+                                    [2048x1360] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN6cWJvY3lkenJldTEtT1RPTU9UT1BMIn0.claT95KkT0SjicWDPSLdxFX-3tg0DM8CPX0_66CWebw/image;s=2048x1360
+                                    [732x488] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN6cWJvY3lkenJldTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.IT8hfyZDbd8jXQIgXtpkxMXrN_M9QfTHXrlSkBhW-eI/image;s=732x488
+                                    [148x110] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN6cWJvY3lkenJldTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.IT8hfyZDbd8jXQIgXtpkxMXrN_M9QfTHXrlSkBhW-eI/image;s=148x110
+                                    [320x240] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN6cWJvY3lkenJldTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.IT8hfyZDbd8jXQIgXtpkxMXrN_M9QfTHXrlSkBhW-eI/image;s=320x240
+                                    [1280x800] => https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN6cWJvY3lkenJldTEtT1RPTU9UT1BMIn0.claT95KkT0SjicWDPSLdxFX-3tg0DM8CPX0_66CWebw/image;s=1280x800
+                                )
+
+                        )
+
+                    [image_collection_id] => 1017823889
+                    [new_used] => used
+                    [visible_in_profile] => 1
+                    [last_update_date] => 2025-05-19 16:31:20
+                )
+
+        )
+
+    [category_sample] => Array
+        (
+            [id] => 99
+            [names] => Array
+                (
+                    [pl] => Kombajny
+                    [en] => Combines
+                )
+
+            [parent_id] => 1
+            [code] => kombajny
+            [path_url] => maszyny-rolnicze/kombajny
+            [depth] => 2
+            [parameters] => Array
+                (
+                    [0] => Array
+                        (
+                            [code] => make
+                            [type] => select
+                            [labels] => Array
+                                (
+                                    [pl] => Marka pojazdu
+                                    [en] => Make
+                                )
+
+                            [required] => 1
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                    [siloking] => Array
+                                        (
+                                            [pl] => SILOKING
+                                            [en] => SILOKING
+                                        )
+
+                                    [rol-ex] => Array
+                                        (
+                                            [pl] => ROL-EX
+                                            [en] => ROL-EX
+                                        )
+
+                                    [wolagri] => Array
+                                        (
+                                            [pl] => Wolagri
+                                            [en] => Wolagri
+                                        )
+
+                                    [sodimac] => Array
+                                        (
+                                            [pl] => Sodimac
+                                            [en] => Sodimac
+                                        )
+
+                                    [komatsu] => Array
+                                        (
+                                            [pl] => KOMATSU
+                                            [en] => KOMATSU
+                                        )
+
+                                    [tolmet] => Array
+                                        (
+                                            [pl] => Tolmet
+                                            [en] => Tolmet
+                                        )
+
+                                    [teknamotor] => Array
+                                        (
+                                            [pl] => TEKNAMOTOR
+                                            [en] => TEKNAMOTOR
+                                        )
+
+                                    [bobrujsk-agromasz] => Array
+                                        (
+                                            [pl] => Bobrujsk Agromasz
+                                            [en] => Bobrujsk Agromasz
+                                        )
+
+                                    [hako-werke] => Array
+                                        (
+                                            [pl] => Hako Werke
+                                            [en] => Hako Werke
+                                        )
+
+                                    [czajkowski] => Array
+                                        (
+                                            [pl] => Czajkowski
+                                            [en] => Czajkowski
+                                        )
+
+                                    [corvus] => Array
+                                        (
+                                            [pl] => CORVUS
+                                            [en] => CORVUS
+                                        )
+
+                                    [dewulf] => Array
+                                        (
+                                            [pl] => Dewulf
+                                            [en] => Dewulf
+                                        )
+
+                                    [simon] => Array
+                                        (
+                                            [pl] => Simon
+                                            [en] => Simon
+                                        )
+
+                                    [brantner] => Array
+                                        (
+                                            [pl] => Brantner
+                                            [en] => Brantner
+                                        )
+
+                                    [emmarol] => Array
+                                        (
+                                            [pl] => EMMAROL
+                                            [en] => EMMAROL
+                                        )
+
+                                    [peruzzo] => Array
+                                        (
+                                            [pl] => Peruzzo
+                                            [en] => Peruzzo
+                                        )
+
+                                    [john-greaves] => Array
+                                        (
+                                            [pl] => JOHN GREAVES
+                                            [en] => JOHN GREAVES
+                                        )
+
+                                    [cargo] => Array
+                                        (
+                                            [pl] => Cargo
+                                            [en] => Cargo
+                                        )
+
+                                    [he-va] => Array
+                                        (
+                                            [pl] => HE-VA
+                                            [en] => HE-VA
+                                        )
+
+                                    [staltech] => Array
+                                        (
+                                            [pl] => Staltech
+                                            [en] => Staltech
+                                        )
+
+                                    [dongfeng] => Array
+                                        (
+                                            [pl] => DongFeng
+                                            [en] => DongFeng
+                                        )
+
+                                    [agrotechnology] => Array
+                                        (
+                                            [pl] => Agrotechnology
+                                            [en] => Agrotechnology
+                                        )
+
+                                    [breviglieri] => Array
+                                        (
+                                            [pl] => Breviglieri
+                                            [en] => Breviglieri
+                                        )
+
+                                    [agrimaster] => Array
+                                        (
+                                            [pl] => Agrimaster
+                                            [en] => Agrimaster
+                                        )
+
+                                    [sfoggia] => Array
+                                        (
+                                            [pl] => Sfoggia
+                                            [en] => Sfoggia
+                                        )
+
+                                    [mandam] => Array
+                                        (
+                                            [pl] => Mandam
+                                            [en] => Mandam
+                                        )
+
+                                    [agripol] => Array
+                                        (
+                                            [pl] => AGRIPOL
+                                            [en] => AGRIPOL
+                                        )
+
+                                    [as-motor] => Array
+                                        (
+                                            [pl] => AS MOTOR
+                                            [en] => AS MOTOR
+                                        )
+
+                                    [excat] => Array
+                                        (
+                                            [pl] => Excat
+                                            [en] => Excat
+                                        )
+
+                                    [bogballe] => Array
+                                        (
+                                            [pl] => Bogballe
+                                            [en] => Bogballe
+                                        )
+
+                                    [chd] => Array
+                                        (
+                                            [pl] => CHD
+                                            [en] => CHD
+                                        )
+
+                                    [sid] => Array
+                                        (
+                                            [pl] => SID
+                                            [en] => SID
+                                        )
+
+                                    [taxon] => Array
+                                        (
+                                            [pl] => TAXON
+                                            [en] => TAXON
+                                        )
+
+                                    [tech-projekt] => Array
+                                        (
+                                            [pl] => Tech-Project
+                                            [en] => Tech-Project
+                                        )
+
+                                    [tozamet] => Array
+                                        (
+                                            [pl] => TOZAMET
+                                            [en] => TOZAMET
+                                        )
+
+                                    [dammann] => Array
+                                        (
+                                            [pl] => DAMMANN 
+                                            [en] => DAMMANN 
+                                        )
+
+                                    [ecorobotix] => Array
+                                        (
+                                            [pl] => ECOROBOTIX
+                                            [en] => ECOROBOTIX
+                                        )
+
+                                    [frisma] => Array
+                                        (
+                                            [pl] => Frisma
+                                            [en] => Frisma
+                                        )
+
+                                    [ls-traktor] => Array
+                                        (
+                                            [pl] => LS Traktor
+                                            [en] => LS Traktor
+                                        )
+
+                                    [bednar] => Array
+                                        (
+                                            [pl] => BEDNAR
+                                            [en] => BEDNAR
+                                        )
+
+                                    [umega] => Array
+                                        (
+                                            [pl] => UMEGA
+                                            [en] => UMEGA
+                                        )
+
+                                    [locust] => Array
+                                        (
+                                            [pl] => LOCUST
+                                            [en] => LOCUST
+                                        )
+
+                                    [rm] => Array
+                                        (
+                                            [pl] => RM
+                                            [en] => RM
+                                        )
+
+                                    [caffini] => Array
+                                        (
+                                            [pl] => Caffini
+                                            [en] => Caffini
+                                        )
+
+                                    [holaras] => Array
+                                        (
+                                            [pl] => Holaras
+                                            [en] => Holaras
+                                        )
+
+                                    [rauch] => Array
+                                        (
+                                            [pl] => RAUCH
+                                            [en] => RAUCH
+                                        )
+
+                                    [euromacchine] => Array
+                                        (
+                                            [pl] => EUROMACCHINE
+                                            [en] => EUROMACCHINE
+                                        )
+
+                                    [accord] => Array
+                                        (
+                                            [pl] => Accord
+                                            [en] => Accord
+                                        )
+
+                                    [kmk-maszyny] => Array
+                                        (
+                                            [pl] => KMK MASZYNY
+                                            [en] => KMK MASZYNY
+                                        )
+
+                                    [agco] => Array
+                                        (
+                                            [pl] => Agco
+                                            [en] => Agco
+                                        )
+
+                                    [antonio-carraro] => Array
+                                        (
+                                            [pl] => ANTONIO CARRARO
+                                            [en] => ANTONIO CARRARO
+                                        )
+
+                                    [agro-masz] => Array
+                                        (
+                                            [pl] => Agro-Masz
+                                            [en] => Agro-Masz
+                                        )
+
+                                    [aguirre] => Array
+                                        (
+                                            [pl] => Aguirre
+                                            [en] => Aguirre
+                                        )
+
+                                    [rovatti] => Array
+                                        (
+                                            [pl] => ROVATTI
+                                            [en] => ROVATTI
+                                        )
+
+                                    [allis] => Array
+                                        (
+                                            [pl] => Allis
+                                            [en] => Allis
+                                        )
+
+                                    [alpego] => Array
+                                        (
+                                            [pl] => Alpego
+                                            [en] => Alpego
+                                        )
+
+                                    [amazone] => Array
+                                        (
+                                            [pl] => Amazone
+                                            [en] => Amazone
+                                        )
+
+                                    [arbos] => Array
+                                        (
+                                            [pl] => ARBOS
+                                            [en] => ARBOS
+                                        )
+
+                                    [ausa] => Array
+                                        (
+                                            [pl] => Ausa
+                                            [en] => Ausa
+                                        )
+
+                                    [avant] => Array
+                                        (
+                                            [pl] => Avant
+                                            [en] => Avant
+                                        )
+
+                                    [bargam] => Array
+                                        (
+                                            [pl] => Bargam
+                                            [en] => Bargam
+                                        )
+
+                                    [bcs] => Array
+                                        (
+                                            [pl] => BCS
+                                            [en] => BCS
+                                        )
+
+                                    [belarus] => Array
+                                        (
+                                            [pl] => Belarus
+                                            [en] => Belarus
+                                        )
+
+                                    [berthoud] => Array
+                                        (
+                                            [pl] => Berthoud
+                                            [en] => Berthoud
+                                        )
+
+                                    [bizon] => Array
+                                        (
+                                            [pl] => Bizon
+                                            [en] => Bizon
+                                        )
+
+                                    [bobcat] => Array
+                                        (
+                                            [pl] => Bobcat
+                                            [en] => Bobcat
+                                        )
+
+                                    [bonnel] => Array
+                                        (
+                                            [pl] => Bonnel
+                                            [en] => Bonnel
+                                        )
+
+                                    [brandi] => Array
+                                        (
+                                            [pl] => Brandi
+                                            [en] => Brandi
+                                        )
+
+                                    [bourgoin] => Array
+                                        (
+                                            [pl] => Bourgoin
+                                            [en] => Bourgoin
+                                        )
+
+                                    [braud] => Array
+                                        (
+                                            [pl] => Braud
+                                            [en] => Braud
+                                        )
+
+                                    [carraro] => Array
+                                        (
+                                            [pl] => Carraro
+                                            [en] => Carraro
+                                        )
+
+                                    [caruelle] => Array
+                                        (
+                                            [pl] => Caruelle
+                                            [en] => Caruelle
+                                        )
+
+                                    [case-ih] => Array
+                                        (
+                                            [pl] => Case IH
+                                            [en] => Case IH
+                                        )
+
+                                    [caterpillar] => Array
+                                        (
+                                            [pl] => Caterpillar
+                                            [en] => Caterpillar
+                                        )
+
+                                    [celli] => Array
+                                        (
+                                            [pl] => Celli
+                                            [en] => Celli
+                                        )
+
+                                    [challenger] => Array
+                                        (
+                                            [pl] => Challenger
+                                            [en] => Challenger
+                                        )
+
+                                    [claas] => Array
+                                        (
+                                            [pl] => Claas
+                                            [en] => Claas
+                                        )
+
+                                    [cmt] => Array
+                                        (
+                                            [pl] => CMT
+                                            [en] => CMT
+                                        )
+
+                                    [cochet] => Array
+                                        (
+                                            [pl] => Cochet
+                                            [en] => Cochet
+                                        )
+
+                                    [crystal] => Array
+                                        (
+                                            [pl] => Crystal
+                                            [en] => Crystal
+                                        )
+
+                                    [damax] => Array
+                                        (
+                                            [pl] => Damax
+                                            [en] => Damax
+                                        )
+
+                                    [david-brown] => Array
+                                        (
+                                            [pl] => David Brown
+                                            [en] => David Brown
+                                        )
+
+                                    [deutz-fahr] => Array
+                                        (
+                                            [pl] => Deutz-Fahr
+                                            [en] => Deutz-Fahr
+                                        )
+
+                                    [dieci] => Array
+                                        (
+                                            [pl] => Dieci
+                                            [en] => Dieci
+                                        )
+
+                                    [dubex] => Array
+                                        (
+                                            [pl] => Dubex
+                                            [en] => Dubex
+                                        )
+
+                                    [eurotrak] => Array
+                                        (
+                                            [pl] => Eurotrac
+                                            [en] => Eurotrac
+                                        )
+
+                                    [evrard] => Array
+                                        (
+                                            [pl] => Evrard
+                                            [en] => Evrard
+                                        )
+
+                                    [falc] => Array
+                                        (
+                                            [pl] => Falc
+                                            [en] => Falc
+                                        )
+
+                                    [faresin] => Array
+                                        (
+                                            [pl] => Faresin
+                                            [en] => Faresin
+                                        )
+
+                                    [farmer] => Array
+                                        (
+                                            [pl] => Farmer
+                                            [en] => Farmer
+                                        )
+
+                                    [farmtrack] => Array
+                                        (
+                                            [pl] => Farmtrac
+                                            [en] => Farmtrac
+                                        )
+
+                                    [fendt] => Array
+                                        (
+                                            [pl] => Fendt
+                                            [en] => Fendt
+                                        )
+
+                                    [ferju] => Array
+                                        (
+                                            [pl] => Ferju
+                                            [en] => Ferju
+                                        )
+
+                                    [fiat] => Array
+                                        (
+                                            [pl] => Fiat
+                                            [en] => Fiat
+                                        )
+
+                                    [fiona] => Array
+                                        (
+                                            [pl] => Fiona
+                                            [en] => Fiona
+                                        )
+
+                                    [ford] => Array
+                                        (
+                                            [pl] => Ford
+                                            [en] => Ford
+                                        )
+
+                                    [foton] => Array
+                                        (
+                                            [pl] => Foton
+                                            [en] => Foton
+                                        )
+
+                                    [gaspardo] => Array
+                                        (
+                                            [pl] => Gaspardo
+                                            [en] => Gaspardo
+                                        )
+
+                                    [gleaner] => Array
+                                        (
+                                            [pl] => Gleaner
+                                            [en] => Gleaner
+                                        )
+
+                                    [goldoni] => Array
+                                        (
+                                            [pl] => Goldoni
+                                            [en] => Goldoni
+                                        )
+
+                                    [hand-made] => Array
+                                        (
+                                            [pl] => Hand-made
+                                            [en] => Hand-made
+                                        )
+
+                                    [hanomag] => Array
+                                        (
+                                            [pl] => Hanomag
+                                            [en] => Hanomag
+                                        )
+
+                                    [hardi] => Array
+                                        (
+                                            [pl] => Hardi
+                                            [en] => Hardi
+                                        )
+
+                                    [hassia] => Array
+                                        (
+                                            [pl] => Hassia
+                                            [en] => Hassia
+                                        )
+
+                                    [hinomoto] => Array
+                                        (
+                                            [pl] => Hinomoto
+                                            [en] => Hinomoto
+                                        )
+
+                                    [holder] => Array
+                                        (
+                                            [pl] => Holder
+                                            [en] => Holder
+                                        )
+
+                                    [horsch] => Array
+                                        (
+                                            [pl] => Horsch
+                                            [en] => Horsch
+                                        )
+
+                                    [howard] => Array
+                                        (
+                                            [pl] => Howard
+                                            [en] => Howard
+                                        )
+
+                                    [hurlimann] => Array
+                                        (
+                                            [pl] => Hurlimann
+                                            [en] => Hurlimann
+                                        )
+
+                                    [hydramet] => Array
+                                        (
+                                            [pl] => Hydramet
+                                            [en] => Hydramet
+                                        )
+
+                                    [ick] => Array
+                                        (
+                                            [pl] => ICK
+                                            [en] => ICK
+                                        )
+
+                                    [ifa] => Array
+                                        (
+                                            [pl] => Ifa
+                                            [en] => Ifa
+                                        )
+
+                                    [irum] => Array
+                                        (
+                                            [pl] => IRUM
+                                            [en] => IRUM
+                                        )
+
+                                    [iseki] => Array
+                                        (
+                                            [pl] => Iseki
+                                            [en] => Iseki
+                                        )
+
+                                    [jcb] => Array
+                                        (
+                                            [pl] => JCB
+                                            [en] => JCB
+                                        )
+
+                                    [john-deere] => Array
+                                        (
+                                            [pl] => John Deere
+                                            [en] => John Deere
+                                        )
+
+                                    [joskin] => Array
+                                        (
+                                            [pl] => Joskin
+                                            [en] => Joskin
+                                        )
+
+                                    [kioti] => Array
+                                        (
+                                            [pl] => Kioti
+                                            [en] => Kioti
+                                        )
+
+                                    [kirong] => Array
+                                        (
+                                            [pl] => Kirong
+                                            [en] => Kirong
+                                        )
+
+                                    [kockerling] => Array
+                                        (
+                                            [pl] => Köckerling
+                                            [en] => Köckerling
+                                        )
+
+                                    [kongskilde] => Array
+                                        (
+                                            [pl] => Kongskilde
+                                            [en] => Kongskilde
+                                        )
+
+                                    [krone] => Array
+                                        (
+                                            [pl] => Krone
+                                            [en] => Krone
+                                        )
+
+                                    [krukowiak] => Array
+                                        (
+                                            [pl] => Krukowiak
+                                            [en] => Krukowiak
+                                        )
+
+                                    [kubota] => Array
+                                        (
+                                            [pl] => Kubota
+                                            [en] => Kubota
+                                        )
+
+                                    [kuhn] => Array
+                                        (
+                                            [pl] => Kuhn
+                                            [en] => Kuhn
+                                        )
+
+                                    [kverneland] => Array
+                                        (
+                                            [pl] => Kverneland
+                                            [en] => Kverneland
+                                        )
+
+                                    [lamborgini] => Array
+                                        (
+                                            [pl] => Lamborghini
+                                            [en] => Lamborghini
+                                        )
+
+                                    [landini] => Array
+                                        (
+                                            [pl] => Landini
+                                            [en] => Landini
+                                        )
+
+                                    [laverda] => Array
+                                        (
+                                            [pl] => Laverda
+                                            [en] => Laverda
+                                        )
+
+                                    [lely] => Array
+                                        (
+                                            [pl] => Lely
+                                            [en] => Lely
+                                        )
+
+                                    [lemtech] => Array
+                                        (
+                                            [pl] => Lemtech
+                                            [en] => Lemtech
+                                        )
+
+                                    [lemken] => Array
+                                        (
+                                            [pl] => Lemken
+                                            [en] => Lemken
+                                        )
+
+                                    [ma-ag] => Array
+                                        (
+                                            [pl] => Ma-Ag
+                                            [en] => Ma-Ag
+                                        )
+
+                                    [macks] => Array
+                                        (
+                                            [pl] => Macks
+                                            [en] => Macks
+                                        )
+
+                                    [mahindra] => Array
+                                        (
+                                            [pl] => Mahindra
+                                            [en] => Mahindra
+                                        )
+
+                                    [manitou] => Array
+                                        (
+                                            [pl] => Manitou
+                                            [en] => Manitou
+                                        )
+
+                                    [marzia] => Array
+                                        (
+                                            [pl] => Marzia
+                                            [en] => Marzia
+                                        )
+
+                                    [mascio] => Array
+                                        (
+                                            [pl] => Maschio
+                                            [en] => Maschio
+                                        )
+
+                                    [massey-ferguson] => Array
+                                        (
+                                            [pl] => Massey Ferguson
+                                            [en] => Massey Ferguson
+                                        )
+
+                                    [mat] => Array
+                                        (
+                                            [pl] => MAT
+                                            [en] => MAT
+                                        )
+
+                                    [mercedes-benz] => Array
+                                        (
+                                            [pl] => Mercedes-Benz
+                                            [en] => Mercedes-Benz
+                                        )
+
+                                    [mccormic] => Array
+                                        (
+                                            [pl] => McCormick
+                                            [en] => McCormick
+                                        )
+
+                                    [mecanica] => Array
+                                        (
+                                            [pl] => Mecanica
+                                            [en] => Mecanica
+                                        )
+
+                                    [meprozet] => Array
+                                        (
+                                            [pl] => Meprozet
+                                            [en] => Meprozet
+                                        )
+
+                                    [moskit] => Array
+                                        (
+                                            [pl] => Moskit
+                                            [en] => Moskit
+                                        )
+
+                                    [mtz] => Array
+                                        (
+                                            [pl] => MTZ
+                                            [en] => MTZ
+                                        )
+
+                                    [new-holland] => Array
+                                        (
+                                            [pl] => New Holland
+                                            [en] => New Holland
+                                        )
+
+                                    [nodet] => Array
+                                        (
+                                            [pl] => Nodet
+                                            [en] => Nodet
+                                        )
+
+                                    [pasquali] => Array
+                                        (
+                                            [pl] => Pasquali
+                                            [en] => Pasquali
+                                        )
+
+                                    [toscano] => Array
+                                        (
+                                            [pl] => TOSCANO
+                                            [en] => TOSCANO
+                                        )
+
+                                    [pichon] => Array
+                                        (
+                                            [pl] => Pichon
+                                            [en] => Pichon
+                                        )
+
+                                    [pom-augustow] => Array
+                                        (
+                                            [pl] => POM Augustów
+                                            [en] => POM Augustów
+                                        )
+
+                                    [pom-ltd] => Array
+                                        (
+                                            [pl] => POM Ltd.
+                                            [en] => POM Ltd.
+                                        )
+
+                                    [pomarol] => Array
+                                        (
+                                            [pl] => Pomarol
+                                            [en] => Pomarol
+                                        )
+
+                                    [prokmar] => Array
+                                        (
+                                            [pl] => Prokmar
+                                            [en] => Prokmar
+                                        )
+
+                                    [pronar] => Array
+                                        (
+                                            [pl] => Pronar
+                                            [en] => Pronar
+                                        )
+
+                                    [rabe] => Array
+                                        (
+                                            [pl] => Rabe
+                                            [en] => Rabe
+                                        )
+
+                                    [rau] => Array
+                                        (
+                                            [pl] => RAU
+                                            [en] => RAU
+                                        )
+
+                                    [renault] => Array
+                                        (
+                                            [pl] => Renault
+                                            [en] => Renault
+                                        )
+
+                                    [roger] => Array
+                                        (
+                                            [pl] => Roger
+                                            [en] => Roger
+                                        )
+
+                                    [ruris] => Array
+                                        (
+                                            [pl] => Ruris
+                                            [en] => Ruris
+                                        )
+
+                                    [samasz] => Array
+                                        (
+                                            [pl] => SaMasz
+                                            [en] => SaMasz
+                                        )
+
+                                    [same] => Array
+                                        (
+                                            [pl] => Same
+                                            [en] => Same
+                                        )
+
+                                    [sampo] => Array
+                                        (
+                                            [pl] => Sampo
+                                            [en] => Sampo
+                                        )
+
+                                    [sauerburger] => Array
+                                        (
+                                            [pl] => Sauerburger
+                                            [en] => Sauerburger
+                                        )
+
+                                    [schaffer] => Array
+                                        (
+                                            [pl] => Schaffer
+                                            [en] => Schaffer
+                                        )
+
+                                    [seguip] => Array
+                                        (
+                                            [pl] => Seguip
+                                            [en] => Seguip
+                                        )
+
+                                    [sigma] => Array
+                                        (
+                                            [pl] => Sigma
+                                            [en] => Sigma
+                                        )
+
+                                    [sipma] => Array
+                                        (
+                                            [pl] => Sipma
+                                            [en] => Sipma
+                                        )
+
+                                    [sola] => Array
+                                        (
+                                            [pl] => Sola
+                                            [en] => Sola
+                                        )
+
+                                    [someca] => Array
+                                        (
+                                            [pl] => Someca
+                                            [en] => Someca
+                                        )
+
+                                    [steyer] => Array
+                                        (
+                                            [pl] => Steyer
+                                            [en] => Steyer
+                                        )
+
+                                    [steyr] => Array
+                                        (
+                                            [pl] => Steyr
+                                            [en] => Steyr
+                                        )
+
+                                    [everun] => Array
+                                        (
+                                            [pl] => Everun
+                                            [en] => Everun
+                                        )
+
+                                    [agro-osek] => Array
+                                        (
+                                            [pl] => AGRO-OSEK
+                                            [en] => AGRO-OSEK
+                                        )
+
+                                    [bauer] => Array
+                                        (
+                                            [pl] => BAUER
+                                            [en] => BAUER
+                                        )
+
+                                    [sulky] => Array
+                                        (
+                                            [pl] => Sulky
+                                            [en] => Sulky
+                                        )
+
+                                    [tecnoma] => Array
+                                        (
+                                            [pl] => Tecnoma
+                                            [en] => Tecnoma
+                                        )
+
+                                    [tenias] => Array
+                                        (
+                                            [pl] => Tenias
+                                            [en] => Tenias
+                                        )
+
+                                    [thaler] => Array
+                                        (
+                                            [pl] => Thaler
+                                            [en] => Thaler
+                                        )
+
+                                    [trioliet] => Array
+                                        (
+                                            [pl] => Trioliet
+                                            [en] => Trioliet
+                                        )
+
+                                    [tym] => Array
+                                        (
+                                            [pl] => TYM
+                                            [en] => TYM
+                                        )
+
+                                    [universal] => Array
+                                        (
+                                            [pl] => Universal
+                                            [en] => Universal
+                                        )
+
+                                    [ursus] => Array
+                                        (
+                                            [pl] => Ursus
+                                            [en] => Ursus
+                                        )
+
+                                    [utb] => Array
+                                        (
+                                            [pl] => UTB
+                                            [en] => UTB
+                                        )
+
+                                    [vaderstadt] => Array
+                                        (
+                                            [pl] => Väderstad
+                                            [en] => Väderstad
+                                        )
+
+                                    [valmet] => Array
+                                        (
+                                            [pl] => Valmet
+                                            [en] => Valmet
+                                        )
+
+                                    [valpadana] => Array
+                                        (
+                                            [pl] => Valpadana
+                                            [en] => Valpadana
+                                        )
+
+                                    [valtec] => Array
+                                        (
+                                            [pl] => Valtec
+                                            [en] => Valtec
+                                        )
+
+                                    [valtra] => Array
+                                        (
+                                            [pl] => Valtra
+                                            [en] => Valtra
+                                        )
+
+                                    [vicon] => Array
+                                        (
+                                            [pl] => Vicon
+                                            [en] => Vicon
+                                        )
+
+                                    [vogel-noot] => Array
+                                        (
+                                            [pl] => Vogel&Noot
+                                            [en] => Vogel&Noot
+                                        )
+
+                                    [weidemann] => Array
+                                        (
+                                            [pl] => Weidemann
+                                            [en] => Weidemann
+                                        )
+
+                                    [wielton] => Array
+                                        (
+                                            [pl] => Wielton
+                                            [en] => Wielton
+                                        )
+
+                                    [yanmar] => Array
+                                        (
+                                            [pl] => Yanmar
+                                            [en] => Yanmar
+                                        )
+
+                                    [zetor] => Array
+                                        (
+                                            [pl] => Zetor
+                                            [en] => Zetor
+                                        )
+
+                                    [other] => Array
+                                        (
+                                            [pl] => Inny
+                                            [en] => Other
+                                        )
+
+                                    [agrex] => Array
+                                        (
+                                            [pl] => Agrex
+                                            [en] => Agrex
+                                        )
+
+                                    [agro-factory] => Array
+                                        (
+                                            [pl] => Agro Factory
+                                            [en] => Agro Factory
+                                        )
+
+                                    [agromet-mogilno] => Array
+                                        (
+                                            [pl] => Agromet Mogilno
+                                            [en] => Agromet Mogilno
+                                        )
+
+                                    [agrostoj-pelhrimov] => Array
+                                        (
+                                            [pl] => Agrostoj Pelhrimov
+                                            [en] => Agrostoj Pelhrimov
+                                        )
+
+                                    [annaburger] => Array
+                                        (
+                                            [pl] => Annaburger
+                                            [en] => Annaburger
+                                        )
+
+                                    [banrol] => Array
+                                        (
+                                            [pl] => Banrol
+                                            [en] => Banrol
+                                        )
+
+                                    [bielrol] => Array
+                                        (
+                                            [pl] => Bielrol
+                                            [en] => Bielrol
+                                        )
+
+                                    [bmhorse] => Array
+                                        (
+                                            [pl] => Bmhorse
+                                            [en] => Bmhorse
+                                        )
+
+                                    [bomet] => Array
+                                        (
+                                            [pl] => Bomet
+                                            [en] => Bomet
+                                        )
+
+                                    [cynkomet] => Array
+                                        (
+                                            [pl] => Cynkomet
+                                            [en] => Cynkomet
+                                        )
+
+                                    [gregoire-besson] => Array
+                                        (
+                                            [pl] => Gregoire Besson
+                                            [en] => Gregoire Besson
+                                        )
+
+                                    [grimme] => Array
+                                        (
+                                            [pl] => Grimme
+                                            [en] => Grimme
+                                        )
+
+                                    [inter-tech] => Array
+                                        (
+                                            [pl] => Inter-tech
+                                            [en] => Inter-tech
+                                        )
+
+                                    [jar-met] => Array
+                                        (
+                                            [pl] => Jar-met
+                                            [en] => Jar-met
+                                        )
+
+                                    [langren] => Array
+                                        (
+                                            [pl] => Langren
+                                            [en] => Langren
+                                        )
+
+                                    [leboulch] => Array
+                                        (
+                                            [pl] => Leboulch
+                                            [en] => Leboulch
+                                        )
+
+                                    [lisicki] => Array
+                                        (
+                                            [pl] => Lisicki
+                                            [en] => Lisicki
+                                        )
+
+                                    [metal-technik] => Array
+                                        (
+                                            [pl] => Metal-Technik
+                                            [en] => Metal-Technik
+                                        )
+
+                                    [pottinger] => Array
+                                        (
+                                            [pl] => Pottinger
+                                            [en] => Pottinger
+                                        )
+
+                                    [sip] => Array
+                                        (
+                                            [pl] => SIP
+                                            [en] => SIP
+                                        )
+
+                                    [sonarol] => Array
+                                        (
+                                            [pl] => Sonarol
+                                            [en] => Sonarol
+                                        )
+
+                                    [strautmann] => Array
+                                        (
+                                            [pl] => Strautmann
+                                            [en] => Strautmann
+                                        )
+
+                                    [sukov] => Array
+                                        (
+                                            [pl] => Sukov
+                                            [en] => Sukov
+                                        )
+
+                                    [traclift] => Array
+                                        (
+                                            [pl] => TracLift
+                                            [en] => TracLift
+                                        )
+
+                                    [agrisem] => Array
+                                        (
+                                            [pl] => Agrisem
+                                            [en] => Agrisem
+                                        )
+
+                                    [danfoil] => Array
+                                        (
+                                            [pl] => Danfoil
+                                            [en] => Danfoil
+                                        )
+
+                                    [marco-polo] => Array
+                                        (
+                                            [pl] => Marco Polo
+                                            [en] => Marco Polo
+                                        )
+
+                                    [blanchard] => Array
+                                        (
+                                            [pl] => Blanchard
+                                            [en] => Blanchard
+                                        )
+
+                                    [great-plains] => Array
+                                        (
+                                            [pl] => Great Plains
+                                            [en] => Great Plains
+                                        )
+
+                                    [dexwal-bis] => Array
+                                        (
+                                            [pl] => Dexwal Bis
+                                            [en] => Dexwal Bis
+                                        )
+
+                                    [henart] => Array
+                                        (
+                                            [pl] => Henart
+                                            [en] => Henart
+                                        )
+
+                                    [giant] => Array
+                                        (
+                                            [pl] => Giant
+                                            [en] => Giant
+                                        )
+
+                                    [lovol] => Array
+                                        (
+                                            [pl] => Lovol
+                                            [en] => Lovol
+                                        )
+
+                                    [monosem] => Array
+                                        (
+                                            [pl] => Monosem
+                                            [en] => Monosem
+                                        )
+
+                                    [metal-fach] => Array
+                                        (
+                                            [pl] => Metal Fach
+                                            [en] => Metal Fach
+                                        )
+
+                                    [gunter-grossmann] => Array
+                                        (
+                                            [pl] => GUNTER-GROSSMANN
+                                            [en] => GUNTER-GROSSMANN
+                                        )
+
+                                    [grassrol] => Array
+                                        (
+                                            [pl] => Grassrol
+                                            [en] => Grassrol
+                                        )
+
+                                    [krpan] => Array
+                                        (
+                                            [pl] => Krpan
+                                            [en] => Krpan
+                                        )
+
+                                    [unia] => Array
+                                        (
+                                            [pl] => Unia
+                                            [en] => Unia
+                                        )
+
+                                    [kraft] => Array
+                                        (
+                                            [pl] => Kraft
+                                            [en] => Kraft
+                                        )
+
+                                    [moro-aratri] => Array
+                                        (
+                                            [pl] => Moro Aratri
+                                            [en] => Moro Aratri
+                                        )
+
+                                    [ponsse] => Array
+                                        (
+                                            [pl] => Ponsse
+                                            [en] => Ponsse
+                                        )
+
+                                    [holmer] => Array
+                                        (
+                                            [pl] => Holmer
+                                            [en] => Holmer
+                                        )
+
+                                    [remprodex] => Array
+                                        (
+                                            [pl] => Remprodex
+                                            [en] => Remprodex
+                                        )
+
+                                    [rolmako] => Array
+                                        (
+                                            [pl] => Rolmako
+                                            [en] => Rolmako
+                                        )
+
+                                    [kinshofer] => Array
+                                        (
+                                            [pl] => Kinshofer
+                                            [en] => Kinshofer
+                                        )
+
+                                    [sany] => Array
+                                        (
+                                            [pl] => Sany
+                                            [en] => Sany
+                                        )
+
+                                    [weycor] => Array
+                                        (
+                                            [pl] => Weycor
+                                            [en] => Weycor
+                                        )
+
+                                    [kowalski] => Array
+                                        (
+                                            [pl] => Kowalski
+                                            [en] => Kowalski
+                                        )
+
+                                    [merlo] => Array
+                                        (
+                                            [pl] => Merlo
+                                            [en] => Merlo
+                                        )
+
+                                    [claydon] => Array
+                                        (
+                                            [pl] => Claydon
+                                            [en] => Claydon
+                                        )
+
+                                    [zanila] => Array
+                                        (
+                                            [pl] => Zanila
+                                            [en] => Zanila
+                                        )
+
+                                    [ozdoken] => Array
+                                        (
+                                            [pl] => Ozdoken
+                                            [en] => Ozdoken
+                                        )
+
+                                    [fimaks] => Array
+                                        (
+                                            [pl] => Fimaks
+                                            [en] => Fimaks
+                                        )
+
+                                    [wizard] => Array
+                                        (
+                                            [pl] => Wizard
+                                            [en] => Wizard
+                                        )
+
+                                    [befard] => Array
+                                        (
+                                            [pl] => Befard
+                                            [en] => Befard
+                                        )
+
+                                    [promar] => Array
+                                        (
+                                            [pl] => Promar
+                                            [en] => Promar
+                                        )
+
+                                    [rostselmash] => Array
+                                        (
+                                            [pl] => Rostselmash
+                                            [en] => Rostselmash
+                                        )
+
+                                    [striegel] => Array
+                                        (
+                                            [pl] => Striegel
+                                            [en] => Striegel
+                                        )
+
+                                    [bergman] => Array
+                                        (
+                                            [pl] => Bergmann
+                                            [en] => Bergmann
+                                        )
+
+                                    [goweil] => Array
+                                        (
+                                            [pl] => Goweil
+                                            [en] => Goweil
+                                        )
+
+                                    [kemper] => Array
+                                        (
+                                            [pl] => Kemper
+                                            [en] => Kemper
+                                        )
+
+                                    [capello] => Array
+                                        (
+                                            [pl] => Capello
+                                            [en] => Capello
+                                        )
+
+                                    [piast] => Array
+                                        (
+                                            [pl] => Piast
+                                            [en] => Piast
+                                        )
+
+                                    [hisarlar] => Array
+                                        (
+                                            [pl] => Hisarlar
+                                            [en] => Hisarlar
+                                        )
+
+                                    [del-morino] => Array
+                                        (
+                                            [pl] => Del Morino
+                                            [en] => Del Morino
+                                        )
+
+                                    [tierre] => Array
+                                        (
+                                            [pl] => Tierre
+                                            [en] => Tierre
+                                        )
+
+                                    [harmak] => Array
+                                        (
+                                            [pl] => Harmak
+                                            [en] => Harmak
+                                        )
+
+                                    [tutkun] => Array
+                                        (
+                                            [pl] => Tutkun
+                                            [en] => Tutkun
+                                        )
+
+                                    [unlu] => Array
+                                        (
+                                            [pl] => Unlu
+                                            [en] => Unlu
+                                        )
+
+                                    [aksan-kardan] => Array
+                                        (
+                                            [pl] => Aksan Kardan
+                                            [en] => Aksan Kardan
+                                        )
+
+                                    [gencsan-kardan] => Array
+                                        (
+                                            [pl] => Gencsan Kardan
+                                            [en] => Gencsan Kardan
+                                        )
+
+                                    [gianni-ferrari] => Array
+                                        (
+                                            [pl] => Gianni Ferrari
+                                            [en] => Gianni Ferrari
+                                        )
+
+                                    [agro-tom] => Array
+                                        (
+                                            [pl] => Agro-tom
+                                            [en] => Agro-tom
+                                        )
+
+                                    [gamatechnik] => Array
+                                        (
+                                            [pl] => Gamatechnik
+                                            [en] => Gamatechnik
+                                        )
+
+                                    [solis] => Array
+                                        (
+                                            [pl] => Solis
+                                            [en] => Solis
+                                        )
+
+                                    [edlington] => Array
+                                        (
+                                            [pl] => Edlington
+                                            [en] => Edlington
+                                        )
+
+                                    [miedema] => Array
+                                        (
+                                            [pl] => Miedema
+                                            [en] => Miedema
+                                        )
+
+                                    [tong] => Array
+                                        (
+                                            [pl] => Tong
+                                            [en] => Tong
+                                        )
+
+                                    [peal] => Array
+                                        (
+                                            [pl] => Peal
+                                            [en] => Peal
+                                        )
+
+                                    [herbert] => Array
+                                        (
+                                            [pl] => Herbert
+                                            [en] => Herbert
+                                        )
+
+                                    [downs] => Array
+                                        (
+                                            [pl] => Downs
+                                            [en] => Downs
+                                        )
+
+                                    [samon] => Array
+                                        (
+                                            [pl] => Samon
+                                            [en] => Samon
+                                        )
+
+                                    [keulmac] => Array
+                                        (
+                                            [pl] => Keulmac
+                                            [en] => Keulmac
+                                        )
+
+                                    [haith] => Array
+                                        (
+                                            [pl] => Haith
+                                            [en] => Haith
+                                        )
+
+                                    [newtec] => Array
+                                        (
+                                            [pl] => Newtec
+                                            [en] => Newtec
+                                        )
+
+                                    [bijlsma-hercules] => Array
+                                        (
+                                            [pl] => Bijlsma Hercules
+                                            [en] => Bijlsma Hercules
+                                        )
+
+                                    [checchi-magli] => Array
+                                        (
+                                            [pl] => Checchi & Magli
+                                            [en] => Checchi & Magli
+                                        )
+
+                                    [gruse] => Array
+                                        (
+                                            [pl] => Gruse
+                                            [en] => Gruse
+                                        )
+
+                                    [rumptstad] => Array
+                                        (
+                                            [pl] => Rumptstad
+                                            [en] => Rumptstad
+                                        )
+
+                                    [m-rol] => Array
+                                        (
+                                            [pl] => M-ROL
+                                            [en] => M-ROL
+                                        )
+
+                                    [ferri] => Array
+                                        (
+                                            [pl] => Ferri
+                                            [en] => Ferri
+                                        )
+
+                                    [stroer] => Array
+                                        (
+                                            [pl] => Stroer
+                                            [en] => Stroer
+                                        )
+
+                                    [kuar] => Array
+                                        (
+                                            [pl] => Kuar
+                                            [en] => Kuar
+                                        )
+
+                                    [martin] => Array
+                                        (
+                                            [pl] => Martin
+                                            [en] => Martin
+                                        )
+
+                                    [noremat] => Array
+                                        (
+                                            [pl] => Noremat
+                                            [en] => Noremat
+                                        )
+
+                                    [grutech] => Array
+                                        (
+                                            [pl] => Grutech
+                                            [en] => Grutech
+                                        )
+
+                                    [haybuster] => Array
+                                        (
+                                            [pl] => Haybuster
+                                            [en] => Haybuster
+                                        )
+
+                                    [empro] => Array
+                                        (
+                                            [pl] => Empro
+                                            [en] => Empro
+                                        )
+
+                                    [agro-klon] => Array
+                                        (
+                                            [pl] => AGRO-KLON
+                                            [en] => AGRO-KLON
+                                        )
+
+                                    [overum] => Array
+                                        (
+                                            [pl] => Överum
+                                            [en] => Överum
+                                        )
+
+                                    [agro-lift] => Array
+                                        (
+                                            [pl] => Agro-Lift
+                                            [en] => Agro-Lift
+                                        )
+
+                                    [geringhoff] => Array
+                                        (
+                                            [pl] => Geringhoff
+                                            [en] => Geringhoff
+                                        )
+
+                                    [olimac] => Array
+                                        (
+                                            [pl] => Olimac
+                                            [en] => Olimac
+                                        )
+
+                                    [fantini] => Array
+                                        (
+                                            [pl] => Fantini
+                                            [en] => Fantini
+                                        )
+
+                                    [oros] => Array
+                                        (
+                                            [pl] => Oros
+                                            [en] => Oros
+                                        )
+
+                                    [idass] => Array
+                                        (
+                                            [pl] => Idass
+                                            [en] => Idass
+                                        )
+
+                                    [dominoni] => Array
+                                        (
+                                            [pl] => Dominoni
+                                            [en] => Dominoni
+                                        )
+
+                                    [agrola] => Array
+                                        (
+                                            [pl] => Agrola
+                                            [en] => Agrola
+                                        )
+
+                                    [quicke] => Array
+                                        (
+                                            [pl] => Quicke
+                                            [en] => Quicke
+                                        )
+
+                                    [stoll] => Array
+                                        (
+                                            [pl] => Stoll
+                                            [en] => Stoll
+                                        )
+
+                                    [bredal] => Array
+                                        (
+                                            [pl] => Bredal
+                                            [en] => Bredal
+                                        )
+
+                                    [mchale] => Array
+                                        (
+                                            [pl] => McHale
+                                            [en] => McHale
+                                        )
+
+                                    [expom] => Array
+                                        (
+                                            [pl] => Expom
+                                            [en] => Expom
+                                        )
+
+                                    [sky] => Array
+                                        (
+                                            [pl] => Sky
+                                            [en] => Sky
+                                        )
+
+                                    [basak] => Array
+                                        (
+                                            [pl] => Basak
+                                            [en] => Basak
+                                        )
+
+                                    [bury] => Array
+                                        (
+                                            [pl] => BURY
+                                            [en] => BURY
+                                        )
+
+                                    [mascar] => Array
+                                        (
+                                            [pl] => Mascar
+                                            [en] => Mascar
+                                        )
+
+                                    [fella] => Array
+                                        (
+                                            [pl] => FELLA
+                                            [en] => FELLA
+                                        )
+
+                                    [samson] => Array
+                                        (
+                                            [pl] => Samson
+                                            [en] => Samson
+                                        )
+
+                                    [matermacc] => Array
+                                        (
+                                            [pl] => Matermacc
+                                            [en] => Matermacc
+                                        )
+
+                                    [landstal] => Array
+                                        (
+                                            [pl] => Landstal
+                                            [en] => Landstal
+                                        )
+
+                                    [wiedenmann] => Array
+                                        (
+                                            [pl] => Wiedenmann
+                                            [en] => Wiedenmann
+                                        )
+
+                                    [muthing] => Array
+                                        (
+                                            [pl] => Muthing
+                                            [en] => Muthing
+                                        )
+
+                                    [honda] => Array
+                                        (
+                                            [pl] => Honda
+                                            [en] => Honda
+                                        )
+
+                                    [boguslav] => Array
+                                        (
+                                            [pl] => Boguslav
+                                            [en] => Boguslav
+                                        )
+
+                                    [farmtech] => Array
+                                        (
+                                            [pl] => Farmtech
+                                            [en] => Farmtech
+                                        )
+
+                                    [ozduman] => Array
+                                        (
+                                            [pl] => Ozduman
+                                            [en] => Ozduman
+                                        )
+
+                                    [enorossi] => Array
+                                        (
+                                            [pl] => Enorossi
+                                            [en] => Enorossi
+                                        )
+
+                                    [tume] => Array
+                                        (
+                                            [pl] => Tume
+                                            [en] => Tume
+                                        )
+
+                                    [vermeer] => Array
+                                        (
+                                            [pl] => Vermeer
+                                            [en] => Vermeer
+                                        )
+
+                                    [gomselmash] => Array
+                                        (
+                                            [pl] => Gomselmash
+                                            [en] => Gomselmash
+                                        )
+
+                                    [kobzarenko] => Array
+                                        (
+                                            [pl] => Kobzarenko
+                                            [en] => Kobzarenko
+                                        )
+
+                                    [veles-agro] => Array
+                                        (
+                                            [pl] => Veles Agro
+                                            [en] => Veles Agro
+                                        )
+
+                                    [veles-alt] => Array
+                                        (
+                                            [pl] => Veles Alt
+                                            [en] => Veles Alt
+                                        )
+
+                                    [promagro] => Array
+                                        (
+                                            [pl] => Promagro
+                                            [en] => Promagro
+                                        )
+
+                                    [perard] => Array
+                                        (
+                                            [pl] => Perard
+                                            [en] => Perard
+                                        )
+
+                                    [brochard] => Array
+                                        (
+                                            [pl] => Brochard
+                                            [en] => Brochard
+                                        )
+
+                                    [armor] => Array
+                                        (
+                                            [pl] => Armor
+                                            [en] => Armor
+                                        )
+
+                                    [zdt] => Array
+                                        (
+                                            [pl] => ZDT
+                                            [en] => ZDT
+                                        )
+
+                                    [horus] => Array
+                                        (
+                                            [pl] => Horus
+                                            [en] => Horus
+                                        )
+
+                                    [regent] => Array
+                                        (
+                                            [pl] => Regent
+                                            [en] => Regent
+                                        )
+
+                                    [farmet] => Array
+                                        (
+                                            [pl] => Farmet
+                                            [en] => Farmet
+                                        )
+
+                                    [sam] => Array
+                                        (
+                                            [pl] => SAM
+                                            [en] => SAM
+                                        )
+
+                                    [aps] => Array
+                                        (
+                                            [pl] => APS
+                                            [en] => APS
+                                        )
+
+                                    [rivierre-greenland] => Array
+                                        (
+                                            [pl] => Rivierre Greenland
+                                            [en] => Rivierre Greenland
+                                        )
+
+                                    [casella] => Array
+                                        (
+                                            [pl] => Casella
+                                            [en] => Casella
+                                        )
+
+                                    [mar-pol] => Array
+                                        (
+                                            [pl] => MAR-POL
+                                            [en] => MAR-POL
+                                        )
+
+                                    [orkan] => Array
+                                        (
+                                            [pl] => Orkan
+                                            [en] => Orkan
+                                        )
+
+                                    [hattat] => Array
+                                        (
+                                            [pl] => Hattat
+                                            [en] => Hattat
+                                        )
+
+                                    [nex] => Array
+                                        (
+                                            [pl] => NEX
+                                            [en] => NEX
+                                        )
+
+                                    [talex] => Array
+                                        (
+                                            [pl] => Talex
+                                            [en] => Talex
+                                        )
+
+                                    [okayama] => Array
+                                        (
+                                            [pl] => Okayama
+                                            [en] => Okayama
+                                        )
+
+                                    [kingway] => Array
+                                        (
+                                            [pl] => Kingway
+                                            [en] => Kingway
+                                        )
+
+                                    [amj-agro] => Array
+                                        (
+                                            [pl] => AMJ Agro
+                                            [en] => AMJ Agro
+                                        )
+
+                                    [agro-instal] => Array
+                                        (
+                                            [pl] => Agro-Instal
+                                            [en] => Agro-Instal
+                                        )
+
+                                    [agromex] => Array
+                                        (
+                                            [pl] => Agromex
+                                            [en] => Agromex
+                                        )
+
+                                    [cub_cadet] => Array
+                                        (
+                                            [pl] => Cub Cadet
+                                            [en] => Cub Cadet
+                                        )
+
+                                    [husqvarna] => Array
+                                        (
+                                            [pl] => Husqvarna
+                                            [en] => Husqvarna
+                                        )
+
+                                    [craftsman] => Array
+                                        (
+                                            [pl] => Craftsman
+                                            [en] => Craftsman
+                                        )
+
+                                    [ariens] => Array
+                                        (
+                                            [pl] => Ariens
+                                            [en] => Ariens
+                                        )
+
+                                    [uniforest] => Array
+                                        (
+                                            [pl] => Uniforest
+                                            [en] => Uniforest
+                                        )
+
+                                    [feraboli] => Array
+                                        (
+                                            [pl] => Feraboli
+                                            [en] => Feraboli
+                                        )
+
+                                    [gallignani] => Array
+                                        (
+                                            [pl] => Gallignani
+                                            [en] => Gallignani
+                                        )
+
+                                    [rivierre-casalis] => Array
+                                        (
+                                            [pl] => Rivierre Casalis
+                                            [en] => Rivierre Casalis
+                                        )
+
+                                    [kaweco] => Array
+                                        (
+                                            [pl] => Kaweco
+                                            [en] => Kaweco
+                                        )
+
+                                    [lozova] => Array
+                                        (
+                                            [pl] => Lozova
+                                            [en] => Lozova
+                                        )
+
+                                    [opall-agri] => Array
+                                        (
+                                            [pl] => Opall Agri
+                                            [en] => Opall Agri
+                                        )
+
+                                    [yaroslavich] => Array
+                                        (
+                                            [pl] => Yaroslavich
+                                            [en] => Yaroslavich
+                                        )
+
+                                    [mitsubishi] => Array
+                                        (
+                                            [pl] => Mitsubishi
+                                            [en] => Mitsubishi
+                                        )
+
+                                    [hummel] => Array
+                                        (
+                                            [pl] => Hummel
+                                            [en] => Hummel
+                                        )
+
+                                    [jastech] => Array
+                                        (
+                                            [pl] => Jastech
+                                            [en] => Jastech
+                                        )
+
+                                    [metal-plast] => Array
+                                        (
+                                            [pl] => Metal-Plast
+                                            [en] => Metal-Plast
+                                        )
+
+                                    [koppl] => Array
+                                        (
+                                            [pl] => Koppl
+                                            [en] => Koppl
+                                        )
+
+                                    [spider] => Array
+                                        (
+                                            [pl] => Spider
+                                            [en] => Spider
+                                        )
+
+                                    [bomech] => Array
+                                        (
+                                            [pl] => Bomech
+                                            [en] => Bomech
+                                        )
+
+                                    [kts] => Array
+                                        (
+                                            [pl] => KTS
+                                            [en] => KTS
+                                        )
+
+                                    [agristal] => Array
+                                        (
+                                            [pl] => AGRISTAL
+                                            [en] => AGRISTAL
+                                        )
+
+                                    [kirovets] => Array
+                                        (
+                                            [pl] => Kirovets
+                                            [en] => Kirovets
+                                        )
+
+                                    [htz] => Array
+                                        (
+                                            [pl] => HTZ
+                                            [en] => HTZ
+                                        )
+
+                                    [shibaura] => Array
+                                        (
+                                            [pl] => Shibaura
+                                            [en] => Shibaura
+                                        )
+
+                                    [welger] => Array
+                                        (
+                                            [pl] => Welger
+                                            [en] => Welger
+                                        )
+
+                                    [spearhead] => Array
+                                        (
+                                            [pl] => Spearhead
+                                            [en] => Spearhead
+                                        )
+
+                                    [debon] => Array
+                                        (
+                                            [pl] => Debon
+                                            [en] => Debon
+                                        )
+
+                                    [ekopom] => Array
+                                        (
+                                            [pl] => EkoPOM
+                                            [en] => EkoPOM
+                                        )
+
+                                    [agromilka] => Array
+                                        (
+                                            [pl] => AGROMILKA
+                                            [en] => AGROMILKA
+                                        )
+
+                                    [agro-bartona] => Array
+                                        (
+                                            [pl] => AGRO-BARTONA
+                                            [en] => AGRO-BARTONA
+                                        )
+
+                                    [heuling] => Array
+                                        (
+                                            [pl] => HEULING
+                                            [en] => HEULING
+                                        )
+
+                                    [imants] => Array
+                                        (
+                                            [pl] => IMANTS
+                                            [en] => IMANTS
+                                        )
+
+                                    [dcm] => Array
+                                        (
+                                            [pl] => DCM
+                                            [en] => DCM
+                                        )
+
+                                    [fliegl] => Array
+                                        (
+                                            [pl] => Fliegl
+                                            [en] => Fliegl
+                                        )
+
+                                    [woprol] => Array
+                                        (
+                                            [pl] => Woprol
+                                            [en] => Woprol
+                                        )
+
+                                    [aupax] => Array
+                                        (
+                                            [pl] => Aupax
+                                            [en] => Aupax
+                                        )
+
+                                    [supertino] => Array
+                                        (
+                                            [pl] => Supertino
+                                            [en] => Supertino
+                                        )
+
+                                    [western] => Array
+                                        (
+                                            [pl] => WESTERN
+                                            [en] => WESTERN
+                                        )
+
+                                    [kramer] => Array
+                                        (
+                                            [pl] => Kramer
+                                            [en] => Kramer
+                                        )
+
+                                    [stanhay] => Array
+                                        (
+                                            [pl] => Stanhay
+                                            [en] => Stanhay
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [code] => model
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Model pojazdu
+                                    [en] => Model
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [code] => video
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Film na YouTube
+                                    [en] => Add Youtube video url
+                                )
+
+                            [required] => 
+                            [purpose] => add
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [code] => year
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Rok produkcji
+                                    [en] => Year
+                                )
+
+                            [required] => 1
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [code] => lifetime
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Motogodziny
+                                    [en] => Lifetime
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [code] => damaged
+                            [type] => toggle
+                            [labels] => Array
+                                (
+                                    [pl] => Uszkodzony
+                                    [en] => Damaged
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                    [1] => Array
+                                        (
+                                            [pl] => Tak
+                                            [en] => Yes
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [code] => features
+                            [type] => checkboxes
+                            [labels] => Array
+                                (
+                                    [pl] => Dodatkowe wyposażenie
+                                    [en] => Features
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                    [cabin] => Array
+                                        (
+                                            [pl] => Kabina
+                                            [en] => Cabin
+                                        )
+
+                                    [air-conditioning] => Array
+                                        (
+                                            [pl] => Klimatyzacja
+                                            [en] => Air conditioning
+                                        )
+
+                                    [radio] => Array
+                                        (
+                                            [pl] => Radio
+                                            [en] => Radio
+                                        )
+
+                                    [auto-pilot] => Array
+                                        (
+                                            [pl] => Autopilot
+                                            [en] => Auto-pilot
+                                        )
+
+                                    [cd] => Array
+                                        (
+                                            [pl] => CD
+                                            [en] => CD
+                                        )
+
+                                    [chopper] => Array
+                                        (
+                                            [pl] => Chopper
+                                            [en] => Chopper
+                                        )
+
+                                    [gps] => Array
+                                        (
+                                            [pl] => GPS
+                                            [en] => GPS
+                                        )
+
+                                    [transporter] => Array
+                                        (
+                                            [pl] => Transporter
+                                            [en] => Transporter
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => Array
+                        (
+                            [code] => price
+                            [type] => price
+                            [labels] => Array
+                                (
+                                    [pl] => Cena
+                                    [en] => Price
+                                )
+
+                            [required] => 1
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                    [price] => Array
+                                        (
+                                            [pl] => Cena
+                                            [en] => Price
+                                        )
+
+                                    [arranged] => Array
+                                        (
+                                            [pl] => Do negocjacji
+                                            [en] => Arranged
+                                        )
+
+                                )
+
+                        )
+
+                    [8] => Array
+                        (
+                            [code] => authorized_dealer
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => Autoryzowanego Dealera
+                                    [en] => Authorized dealer
+                                )
+
+                            [required] => 
+                            [purpose] => search
+                            [options] => 
+                        )
+
+                    [9] => Array
+                        (
+                            [code] => vat_discount
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => VAT marża
+                                    [en] => VAT discount
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                    [10] => Array
+                        (
+                            [code] => financial_option
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => Możliwość finansowania
+                                    [en] => Financing option
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                    [11] => Array
+                        (
+                            [code] => vat
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => Faktura VAT
+                                    [en] => VAT free
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                    [12] => Array
+                        (
+                            [code] => leasing_concession
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => Leasing
+                                    [en] => Leasing concession
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                    [13] => Array
+                        (
+                            [code] => down_payment
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Opłata początkowa
+                                    [en] => Initial down-payment
+                                )
+
+                            [required] => 
+                            [purpose] => add
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [14] => Array
+                        (
+                            [code] => monthly_payment
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Miesięczna rata
+                                    [en] => Monthly payment value
+                                )
+
+                            [required] => 
+                            [purpose] => add
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [15] => Array
+                        (
+                            [code] => remaining_payments
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Liczba pozostałych rat
+                                    [en] => Number of remaining payments
+                                )
+
+                            [required] => 
+                            [purpose] => add
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [16] => Array
+                        (
+                            [code] => residual_value
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Wartość wykupu
+                                    [en] => Residual value
+                                )
+
+                            [required] => 
+                            [purpose] => add
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [17] => Array
+                        (
+                            [code] => vendors_warranty_valid_until_date
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Gwarancja dealerska (w cenie)
+                                    [en] => Vendors warranty valid until
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [18] => Array
+                        (
+                            [code] => country_origin
+                            [type] => select
+                            [labels] => Array
+                                (
+                                    [pl] => Kraj pochodzenia
+                                    [en] => Country of origin
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                    [cn] => Array
+                                        (
+                                            [pl] => Chiny
+                                            [en] => China
+                                        )
+
+                                    [kr] => Array
+                                        (
+                                            [pl] => Korea
+                                            [en] => Korea
+                                        )
+
+                                    [a] => Array
+                                        (
+                                            [pl] => Austria
+                                            [en] => Austria
+                                        )
+
+                                    [b] => Array
+                                        (
+                                            [pl] => Belgia
+                                            [en] => Belgium
+                                        )
+
+                                    [by] => Array
+                                        (
+                                            [pl] => Białoruś
+                                            [en] => Belarus
+                                        )
+
+                                    [bg] => Array
+                                        (
+                                            [pl] => Bułgaria
+                                            [en] => Bulgaria
+                                        )
+
+                                    [hr] => Array
+                                        (
+                                            [pl] => Chorwacja
+                                            [en] => Croatia
+                                        )
+
+                                    [cz] => Array
+                                        (
+                                            [pl] => Czechy
+                                            [en] => Czech Republic
+                                        )
+
+                                    [dk] => Array
+                                        (
+                                            [pl] => Dania
+                                            [en] => Denmark
+                                        )
+
+                                    [est] => Array
+                                        (
+                                            [pl] => Estonia
+                                            [en] => Estonia
+                                        )
+
+                                    [fi] => Array
+                                        (
+                                            [pl] => Finlandia
+                                            [en] => Finland
+                                        )
+
+                                    [f] => Array
+                                        (
+                                            [pl] => Francja
+                                            [en] => France
+                                        )
+
+                                    [gr] => Array
+                                        (
+                                            [pl] => Grecja
+                                            [en] => Greece
+                                        )
+
+                                    [e] => Array
+                                        (
+                                            [pl] => Hiszpania
+                                            [en] => Spain
+                                        )
+
+                                    [nl] => Array
+                                        (
+                                            [pl] => Holandia
+                                            [en] => Netherlands
+                                        )
+
+                                    [irl] => Array
+                                        (
+                                            [pl] => Irlandia
+                                            [en] => Ireland
+                                        )
+
+                                    [is] => Array
+                                        (
+                                            [pl] => Islandia
+                                            [en] => Iceland
+                                        )
+
+                                    [cdn] => Array
+                                        (
+                                            [pl] => Kanada
+                                            [en] => Canada
+                                        )
+
+                                    [jp] => Array
+                                        (
+                                            [pl] => Japonia
+                                            [en] => Japan
+                                        )
+
+                                    [li] => Array
+                                        (
+                                            [pl] => Liechtenstein
+                                            [en] => Liechtenstein
+                                        )
+
+                                    [lt] => Array
+                                        (
+                                            [pl] => Litwa
+                                            [en] => Lithuania
+                                        )
+
+                                    [l] => Array
+                                        (
+                                            [pl] => Luksemburg
+                                            [en] => Luxembourg
+                                        )
+
+                                    [lv] => Array
+                                        (
+                                            [pl] => Łotwa
+                                            [en] => Latvia
+                                        )
+
+                                    [mc] => Array
+                                        (
+                                            [pl] => Monako
+                                            [en] => Monaco
+                                        )
+
+                                    [d] => Array
+                                        (
+                                            [pl] => Niemcy
+                                            [en] => Germany
+                                        )
+
+                                    [n] => Array
+                                        (
+                                            [pl] => Norwegia
+                                            [en] => Norway
+                                        )
+
+                                    [pl] => Array
+                                        (
+                                            [pl] => Polska
+                                            [en] => Poland
+                                        )
+
+                                    [ru] => Array
+                                        (
+                                            [pl] => Rosja
+                                            [en] => Russia
+                                        )
+
+                                    [ro] => Array
+                                        (
+                                            [pl] => Rumunia
+                                            [en] => Romania
+                                        )
+
+                                    [sk] => Array
+                                        (
+                                            [pl] => Słowacja
+                                            [en] => Slovakia
+                                        )
+
+                                    [si] => Array
+                                        (
+                                            [pl] => Słowenia
+                                            [en] => Slovenia
+                                        )
+
+                                    [usa] => Array
+                                        (
+                                            [pl] => Stany Zjednoczone
+                                            [en] => USA
+                                        )
+
+                                    [ch] => Array
+                                        (
+                                            [pl] => Szwajcaria
+                                            [en] => Switzerland
+                                        )
+
+                                    [s] => Array
+                                        (
+                                            [pl] => Szwecja
+                                            [en] => Sweden
+                                        )
+
+                                    [tr] => Array
+                                        (
+                                            [pl] => Turcja
+                                            [en] => Turkey
+                                        )
+
+                                    [ua] => Array
+                                        (
+                                            [pl] => Ukraina
+                                            [en] => Ukraine
+                                        )
+
+                                    [hu] => Array
+                                        (
+                                            [pl] => Węgry
+                                            [en] => Hungary
+                                        )
+
+                                    [gb] => Array
+                                        (
+                                            [pl] => Wielka Brytania
+                                            [en] => United Kingdom
+                                        )
+
+                                    [i] => Array
+                                        (
+                                            [pl] => Włochy
+                                            [en] => Italy
+                                        )
+
+                                    [others] => Array
+                                        (
+                                            [pl] => Inny
+                                            [en] => Others
+                                        )
+
+                                )
+
+                        )
+
+                    [19] => Array
+                        (
+                            [code] => date_registration
+                            [type] => date
+                            [labels] => Array
+                                (
+                                    [pl] => Data pierwszej rejestracji w historii pojazdu
+                                    [en] => First registration
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [20] => Array
+                        (
+                            [code] => registered
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => Zarejestrowany w Polsce
+                                    [en] => Registered in Poland
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                    [21] => Array
+                        (
+                            [code] => original_owner
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] =>  Pierwszy właściciel (od nowości)
+                                    [en] => Original owner
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                    [22] => Array
+                        (
+                            [code] => no_accident
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => Bezwypadkowy
+                                    [en] => No accident
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                    [23] => Array
+                        (
+                            [code] => power
+                            [type] => input
+                            [labels] => Array
+                                (
+                                    [pl] => Moc
+                                    [en] => Power
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => Array
+                                (
+                                )
+
+                        )
+
+                    [24] => Array
+                        (
+                            [code] => rental_option
+                            [type] => checkbox
+                            [labels] => Array
+                                (
+                                    [pl] => Opcja wynajem
+                                    [en] => Rental option
+                                )
+
+                            [required] => 
+                            [purpose] => both
+                            [options] => 
+                        )
+
+                )
+
+        )
+
+)

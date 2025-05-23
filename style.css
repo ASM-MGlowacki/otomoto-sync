@@ -1,0 +1,22 @@
+/*
+Theme Name: Twenty Twenty-Five Child
+Template: twentytwentyfive
+Description: Motyw potomny Twenty Twenty-Five dla CMU24 Otomoto Integration
+Version: 1.0.0
+*/
+
+/* Zmienne CSS dla kolorystyki CMU */
+:root {
+    --cmu-primary-green: #77e73e;
+    --cmu-primary-green-hover: #6fbe48;
+    --cmu-text-dark: #333;
+    --cmu-text-light: #666;
+    --cmu-border-light: #e5e5e5;
+    --cmu-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Resetowanie marginesów dla motywu potomnego */
+.cmu-otomoto-content {
+    margin: 0;
+    padding: 0;
+}

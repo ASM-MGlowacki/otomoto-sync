@@ -1,0 +1,7 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#F5F5F5"/>
+  <path d="M137.5 88H162.5V113H137.5V88Z" fill="#DDDDDD"/>
+  <path d="M155 75L175 100H135L155 75Z" fill="#DDDDDD"/>
+  <path d="M115 125H185V175H115V125Z" fill="#DDDDDD"/>
+  <text x="150" y="100" font-family="Arial" font-size="12" text-anchor="middle" fill="#666666">Brak zdjęcia</text>
+</svg> 
